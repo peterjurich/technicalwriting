@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<p>Number1: <input type = "text" id="num1"></p>
+<p>Number2: <input type = "text" id="num2"></p>
+<button onclick="displayResult()">Show result</button>
+<p id="resultPar"></p>
+<script>
+function displayResult() {
+var result = (Number(num1.value) + Number(num2.value))/2;
+resultPar.innerHTML = "Result: " + result;
+}
+</script>
+</body>
+</html>

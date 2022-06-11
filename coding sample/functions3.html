@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<p>First name: <input type = "text" id="first"></p>
+<p>Last name: <input type = "text" id="last"></p>
+<button onclick="getName()">Click me!</button>
+<button onclick="lastName()">Last name first</button>
+<button onclick="showLength()">Full Name Length</button>
+
+<p id="fullName"></p>
+<script>
+
+function getName() {
+fullName.innerHTML =
+"Full name: " + first.value + " " + last.value;
+}
+function lastName() {
+  fullName.innerHTML =
+  "Reverse name: " + last.value + ", " + first.value;
+}
+
+function fullNameLength(firstName, lastName) {
+  fullName.length
+  return firstName.length + lastName.length + 1;
+}
+function showLength() {
+  fullName.innerHTML = fullNameLength(first.value, last.value);
+}
+</script>
+</body>
+</html>

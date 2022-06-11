@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<body onload="drawChart()">
+<canvas id="canvas1" width="300" height="300">
+Your web-browser does not support the HTML 5 canvas element.
+</canvas>
+<script type="application/javascript" src="awesomechart.js"></script>
+<script>
+function drawChart(){
+if(!!document.createElement('canvas').getContext){
+  //check that the canvas element is supported
+var mychart = new AwesomeChart('canvas1');
+mychart.title = "Our Fambly, by age";
+mychart.data = [36, 29, 5, 4];
+mychart.labels = ["PeterPie", "Scrembly", "Bubbert", "Lil Velvet"];
+mychart.draw();
+}
+}
+</script>
+</body>
+</html>

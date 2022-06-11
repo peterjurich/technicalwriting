@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<p>First name: <input type = "text" id="first"></p>
+<p>Last name: <input type = "text" id="last"></p>
+<button onclick="getName()">Click me!</button>
+<button onclick="lastName()">Last name first</button>
+<p id="fullName"></p>
+<script>
+function getName() {
+fullName.innerHTML =
+"Full name: " + first.value + " " + last.value;
+}
+function lastName() {
+  fullName.innerHTML =
+  "Reverse name: " + last.value + ", " + first.value;
+}
+</script>
+</body>
+</html>
