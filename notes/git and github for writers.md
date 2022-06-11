@@ -80,7 +80,7 @@ Git treats text and binary (images, audio, video) files the same.
 
 # Adding files to a repository
 ## Useful git commands
-`git status`: provides useful info
-`git add`: moves one or more files from unstaged to staged
-`git commit`:commits any staged files
-`git push`: uploads committed files to GH
+* `git status`: provides useful info
+* `git add`: moves one or more files from unstaged to staged
+* `git commit`:commits any staged files
+* `git push`: uploads committed files to GH
