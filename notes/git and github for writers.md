@@ -84,3 +84,20 @@ Git treats text and binary (images, audio, video) files the same.
 * `git add`: moves one or more files from unstaged to staged
 * `git commit`:commits any staged files
 * `git push`: uploads committed files to GH
+* `git mv`: combines renaming a file with `git add .`
+* `git log`: shows your commit history
+* `git log --oneline`:
+* `git checkout`: sets the HEAD label to the commit you're currently working on and sets the current version to an old commit.
+* `git checkout master`: set the current version to the most recent (on master branch)
+
+To delete a file, you can delete it in the folder itself, then commit that change by going into the Terminal and committing the change: So `git status`, `git add .`, `git commit -m`, and `git push origin`.
+
+Or you can type `rm (filename)`, or `rm exercise6.md`.
+
+# Going Back In Time
+Because so much docu is living and constantly updated, changes may be added that were previously deleted. This make version control very helpful by saving all previous versions of the file.
+
+## HEAD
+The commit you are currently working on, but can be moved to a different commit if you'd like.
+
+**IMPORTANT**: Do **NOT** move HEAD to a previous version and make changes to that version. It will screw up the entire timeline. Only return to a previous version if you want to extract old information and copy/paste it into the latest version.
