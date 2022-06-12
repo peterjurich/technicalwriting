@@ -101,3 +101,8 @@ Because so much docu is living and constantly updated, changes may be added that
 The commit you are currently working on, but can be moved to a different commit if you'd like.
 
 **IMPORTANT**: Do **NOT** move HEAD to a previous version and make changes to that version. It will screw up the entire timeline. Only return to a previous version if you want to extract old information and copy/paste it into the latest version.
+
+# Commit Best Practices
+1. Commit often
+2. Ideally make one commit for every one change (added a section, changed product name, etc.)
+3. Clear, concise messaging with each commit lets you find old ones easily. (You may be going back years for an old commit.)
