@@ -83,12 +83,16 @@ Git treats text and binary (images, audio, video) files the same.
 * `git status`: provides useful info
 * `git add`: moves one or more files from unstaged to staged
 * `git commit`:commits any staged files
-* `git push`: uploads committed files to GH
+* `git push`: uploads committed files to GH; also used to upload a recently applied tag.
 * `git mv`: combines renaming a file with `git add .`
 * `git log`: shows your commit history
 * `git log --oneline`:
 * `git checkout`: sets the HEAD label to the commit you're currently working on and sets the current version to an old commit.
 * `git checkout master`: set the current version to the most recent (on master branch)
+* `git tag -a`: adds a tag with name and description; ex. `git tag -a my_tag -m "This is my new tag"
+* `git tag`: lists all tags
+* `git checkout tags/<tagname>`: to check out a tag
+* `git push origin <tagname>`: to push a tag
 
 To delete a file, you can delete it in the folder itself, then commit that change by going into the Terminal and committing the change: So `git status`, `git add .`, `git commit -m`, and `git push origin`.
 
@@ -106,3 +110,12 @@ The commit you are currently working on, but can be moved to a different commit 
 1. Commit often
 2. Ideally make one commit for every one change (added a section, changed product name, etc.)
 3. Clear, concise messaging with each commit lets you find old ones easily. (You may be going back years for an old commit.)
+
+GH allows you to go back and look at previous commits
+
+# Tags
+Tags are a way to mark special commits
+
+Sometimes you want to label a commit as special, most commonly bc it is part of a release. Then if there's a problem, they can be easily found.
+
+Usually a name & description
