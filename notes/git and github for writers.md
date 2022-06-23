@@ -93,6 +93,8 @@ Git treats text and binary (images, audio, video) files the same.
 * `git tag`: lists all tags
 * `git checkout tags/<tagname>`: to check out a tag
 * `git push origin <tagname>`: to push a tag
+* `git pull`: downloads all commits that have pushed to the repository. You can only due a pull if you've committed your files.
+* `git fetch`: downloads remote files, but does not merge them. (git pull does both)
 
 To delete a file, you can delete it in the folder itself, then commit that change by going into the Terminal and committing the change: So `git status`, `git add .`, `git commit -m`, and `git push origin`.
 
@@ -119,3 +121,24 @@ Tags are a way to mark special commits
 Sometimes you want to label a commit as special, most commonly bc it is part of a release. Then if there's a problem, they can be easily found.
 
 Usually a name & description
+
+# Pull
+
+Version control lets multiple ppl work on a file at once, but each person has their own copy. You can then control how each of those separate changes are incorporated.
+
+## How pull handles changes?
+1. Remote file does not change
+2. Remote file changes, local file hasn't changed
+3. Both remote and local file change
+
+##How does a merge happen?
+Does line-by-line comparison. If a line has changed either locally and remotely, then turns up the changed version.
+
+If a line has changed both locally and remotely, the this is called a conflict.
+
+##Conflict
+Git doesn't have enough info to tell which change is correct, so it notifies you of the conflict.
+
+Will put both old and new lines in < and > signs. It's writer's job to merge text and delete these symbols. Then tell Git that the conflict is resolved.
+
+Git can only merge text files, not binary files like pictures. Those must be edited in whatever software you'd use to edit those.
