@@ -123,14 +123,14 @@ Devs like when they can test what they read in the docs and see how it works. IN
 PRODUCT ROADMAPPING -b a guide for steps you need to take to reach a co’s product short and long term goals with different confidence levels
 TWs are rarely asked to make one
 Kinds of roadmaps:
-Evolutionary roadmap – keeps everyone in sync when final product is unclear
-Release roadmap – tool for customer community to keep them informed
-Theme roadmap – logical way to comm next features needed to meet goals and custo’s needs. Indicates where product is going and how it will get there
-Timeboxed roadmap – like release, but more detailed. Serves as reminder that work should be completed by a certauin date
-Capacity roadmap – like release, but for specific depts. Used as comms tool to show what products are expected. Used to discuss resources needed
-Market Requirements roadmap – helps co steer marketing and positioning
-Opportunity roadmap – used for cos that sell to businesses
-Project Roadmap – used to align teams working on diff projects. Lets them see how their work fits with whole vision
+* Evolutionary roadmap – keeps everyone in sync when final product is unclear
+* Release roadmap – tool for customer community to keep them informed
+* Theme roadmap – logical way to comm next features needed to meet goals and custo’s needs. Indicates where product is going and how it will get there
+* Timeboxed roadmap – like release, but more detailed. Serves as reminder that work should be completed by a certauin date
+* Capacity roadmap – like release, but for specific depts. Used as comms tool to show what products are expected. Used to discuss resources needed
+* Market Requirements roadmap – helps co steer marketing and positioning
+* Opportunity roadmap – used for cos that sell to businesses
+* Project Roadmap – used to align teams working on diff projects. Lets them see how their work fits with whole vision
 First step: defining a project strategy
 Second step: gather info from two main sources: custo support team; and product users
 Good roadmap is a strong foundation, but should be flexible.
@@ -140,54 +140,54 @@ Roadmaps are subject to change based on new info (agile)
 Roadmaps align stakeholders w/direction it’s headed.
 TWs can provide depth to a roadmap
 A simple structure is to ensure each row includes the following columns
-New product feature idea
-User story and requirements
-Effort required (work with team to define effort)
-Sequence
-Est. release date
+* New product feature idea
+* User story and requirements
+* Effort required (work with team to define effort)
+* Sequence
+* Est. release date
 
 COMPETITIVE ANALYSIS (Used to increase salary and work on proposals)
 To determine strengths/weaknesses of competitors, strategies that provide advantage, barriers preventing competition, and exploitative weaknesses. Doing this helps you determine your co’s uniqueness and value and discover 
 Are you feature competitive? Is your pricing?
 Core questions to ask:
-Are other co’s doing what we do?
-Are potential custos getting a product at their preferred level?
+* Are other co’s doing what we do?
+* Are potential custos getting a product at their preferred level?
 Research direct (offers more less less the same good/services in the same market) and indirect competitors (offer a diff product that serves the same need)
 Reseaerch skill is high up for TWs
 Begin by identifying who/what co’s up against, then gather key info 
 A market analysis confirms customer needs, industry changes, and fiscal opportunities
 On market:
-Who is your ideal customer?
-What is the size of the market of ideal customers?
-How has market changed in recent years? Where headed?
+* Who is your ideal customer?
+* What is the size of the market of ideal customers?
+* How has market changed in recent years? Where headed?
 On vision (from websites):
-Why do these products exist?
-Which problems do they solve?
-Any problems they don’t solve?
+* Why do these products exist?
+* Which problems do they solve?
+* Any problems they don’t solve?
 Positioning (where competitors see themselves in market)
-How do comps market products?
-What language do they use?
-Which core problems do they solve?
+* How do comps market products?
+* What language do they use?
+* Which core problems do they solve?
 Personas (can be found in docs)
-What are job titles of comp’s typical custos?
-What industry do target custos work in?
-What are target custo skills/interests?
-How do their personas differ from yours?
+* What are job titles of comp’s typical custos?
+* What industry do target custos work in?
+* What are target custo skills/interests?
+* How do their personas differ from yours?
 Differentiators
-Product key benefits?
-Is look and feel superior to mine?
-Price lower or higher?
-Does product work better than the rest?
-Superior custo service?
+* Product key benefits?
+* Is look and feel superior to mine?
+* Price lower or higher?
+* Does product work better than the rest?
+* Superior custo service?
 Strengths and drives
-Sign up for free trial of product
-What do they excel at?
-What do they do better?
-What unique insights do founders offer?
+* Sign up for free trial of product
+* What do they excel at?
+* What do they do better?
+* What unique insights do founders offer?
 Weaknesses
-What do their users struggle with?
-What aspects are lacking?
-What custo needs are not being met?
+* What do their users struggle with?
+* What aspects are lacking?
+* What custo needs are not being met?
 
 MARKET REQUIREMENTS DOCUMENT
 A tech doc that expresses custo’s needs/wants for product and overall market opportunity
@@ -199,13 +199,13 @@ Waterfall approach: all docs up front. MRD will help here
 Agile PM’s usually write a short version
 This doc should articulate the opportunity you are pursuing.
 Seven things to address in an MRD:
-Executive summary: what problem are you trying to solve?
-Vision: what makes product/service unique?
-Target market: How big is the opportunity or rmarket size?
-Personas: who are you solving problem for?
-Competitor analysis: what alternatives exist?
-High level capabilities: What functionality must be included to solve customer needs?
-Metric strategy: How will you measure success
+1. Executive summary: what problem are you trying to solve?
+2. Vision: what makes product/service unique?
+3. Target market: How big is the opportunity or rmarket size?
+4. Personas: who are you solving problem for?
+5. Competitor analysis: what alternatives exist?
+7. High level capabilities: What functionality must be included to solve customer needs?
+7. Metric strategy: How will you measure success
 
 PRODUCT REQUIREMENTS DOC (PRD)
 A doc used to communicate what capabilities must be included in a product release
@@ -213,18 +213,18 @@ Typically used more in waterfall projects
 Should include vision, product goals/initiatives and features, details about how end user will interact with features
 Does not need to be lengthy
 Should contain:
-Objectives
-Vision, goals, strategic product initiatives, personas
-Release
-Release name, date, initiative, features in release, milestones, dependencies
-Features (where explain what should be built)
-User story, description, purpose, use problem, user value (how helps), Assumptions, What we’re not doing, Acceptance criteria
-Picture of what you envision via wireframe; helps improve exp and reduce misunderstandings
-Analytics (how to measure success)
-“We believe <this feature> will achieve <this outcome>”
-Performance indicators (understanding custo behavior to build best product, KPIs)
-Exs. % of users interacting w/features, how long the first time takes, often often used, how long they spend w/each feature, how they navigate through workflows, abandonment rate
-Goal is to capture KPIs for each feature: baseline, target, timeframe,
+* Objectives
+    * Vision, goals, strategic product initiatives, personas
+* Release
+    * Release name, date, initiative, features in release, milestones, dependencies
+* Features (where explain what should be built)
+    * User story, description, purpose, use problem, user value (how helps), Assumptions, What we’re not doing, Acceptance criteria
+    * Picture of what you envision via wireframe; helps improve exp and reduce misunderstandings
+* Analytics (how to measure success)
+    * “We believe <this feature> will achieve <this outcome>”
+* Performance indicators (understanding custo behavior to build best product, KPIs)
+    * Exs. % of users interacting w/features, how long the first time takes, often often used, how long they spend w/each feature, how they navigate through workflows, abandonment rate
+    * Goal is to capture KPIs for each feature: baseline, target, timeframe,
 
 OBJECTIVES & KEY RESULTS (OKRs)
 Plan what you will achieve alongside how you measure success. Scale of 0-1.0, with 0.7-1.0 indicating success. A collab tool to measure goals
@@ -238,10 +238,10 @@ PROTOTYPING
 An early sample.model release, etc. created to test a product or process. Used to improve design and test accuracy of analysts.
 May be closest to problem/solution bridge.
 Prototyping software: Figma, InVision, Balsamiq
-Low-Fidelity Pr: trying to simply understand user needs; spending time on specifics too early could be wasted time
-Mid-Fidelity Pr: as understanding of needs improves, cvan think about how final solution will work and do user testing. Can design digital prs that users can click through
+**Low-Fidelity** Pr: trying to simply understand user needs; spending time on specifics too early could be wasted time
+**Mid-Fidelity Pr**: as understanding of needs improves, cvan think about how final solution will work and do user testing. Can design digital prs that users can click through
 API writing and making integrations tangible
-High-Fidelity Pr: validate solution. Created once have deep understanding of problem
+**High-Fidelity Pr**: validate solution. Created once have deep understanding of problem
 TIPS: Avoid getting emotionally attached, get user input, 
 
 USER JOURNEY MAPS
@@ -260,13 +260,13 @@ Report: describes process, progress of science problem, recommendation, summary 
 Tutorial: transfers knowledge
 Product Description: describes for custos/users; problems end point for them to work back from
 
-AGILE:
+**AGILE**
 Values: individuals/interactions over processes, working software over docu, custo collab or contracts, responding to change over a plan
 MANIFESTO: More useful to have a working product than detailed engineering specifications (which delay start of dev and inhibit design)
 Having some engineering specs in doc form help UX, QA, Marketing,Sales, Support, but should be devved frequently
-A scrum team MUST consider custo docu as a part of “working software”
+**A scrum team MUST consider custo docu as a part of “working software”**
 Planning w/o need to have plans before work begins
-If you write first words after dev, you are not agile
+**If you write first words after dev, you are not agile**
 
 SCRUM
 TWs spend a lot of time trying to integrate w/scrum. This integration works well when you have docu to develop that’s tied to a specific discreet feature.
@@ -291,11 +291,11 @@ Identifying audience helps you focus on writing that is scoped and detailed
 Do details match user exp level? 
 How can we org content on website? How do topics relate? Do they need links to relevant topics?
 Feedback: a company w/a feedback plan has a better chance of succeeding. Product, docu, eng, ux and edu teams should all meet to address common problems
-The more you understand the user journey, the more you understand the product you’re offering.
+**The more you understand the user journey, the more you understand the product you’re offering.**
 
 COMMON WRITING PROBLEMS
 Poor design; lack of accessibility; not mobile optimized; poor maintenance; inconsistencies; mistargeting; no feedback channels; lack of structure & collab; stagnation
-Don’t make your audience think. If they’re thinking, you’ve already lost them. The more they think, the less clarity you’ve given. Does it make them think or take action?
+Don’t make your audience think. **If they’re thinking, you’ve already lost them.** The more they think, the less clarity you’ve given. **Does it make them think or take action?**
 
 AUDIENCE ANALYSIS
 If you get this right, more likely to get lightbulb moment for readers
@@ -306,7 +306,7 @@ Audience question framework: Who are they? What do they need? Where/when/why/how
 How did you get knowledge? Document sources: surveys/questionaires; popular opinions/stereotypes; personal exp; brainstorming; audience feedback; other depts; data analysis; google
 Take this info and create specific persona based on analysis. Give it a name and write docu to cater to it.
 Example persona:
-Persona and audience are not the same: similar to user story and job story
+**Persona and audience are not the same**: similar to user story and job story
 A persona should align to an audience definition. A persona is a specific instance of someone who belongs to an audience type. Should tell you how an ind person will interact w/your product. Will guide feature dev. A useful audience definition works better than persona for training new PMs and TWs. 
 How form an audience definition? Team possess that turns intuition into actionable steps. Balance btw generic and focused. Short-term team of user advocates and set up meetings. Discussion can start w/assumptions and identifying non-represented audiences. At the end, should have a set of definitions with details on each (sub) category.
 Tips: Apply approximation methods; may never create a 100% appropriate docu; TWs may not have good access to end users and custos, so important to work w/int ppl w/access.
@@ -314,30 +314,30 @@ Tips: Apply approximation methods; may never create a 100% appropriate docu; TWs
 AUDIENCE ANALYSIS LEARNING CURVE
 Defines how much effort should go into docu bc at some point, marginal changes hurt
 Who: 
-end users (want info immediately and w/zero interferance
-Novice: know nothing about product, but know about their business; must always provide docu for novice; need short, simple quickstart guides; not interested in references, want to jump straight into function
-Expert: wants to know how to do MORE; has used product for long time, but reaches an error; wants searchable, context-sensitive help; will rely on release notes
-Installers
-Useful to find internal person(qa, eng, ops)  to act as installer for your docu
-Should include install guides, quick-reference steps, upgrade instructions, config material, quickstart install cards/posters
-operations people (manage data center)
-IT to data center
-Job is to keep company running day-to-day
-Need to know how to keep hardware from going down
-Op guides, networking guides, troubleshooting, reference docs, system admin
-devs (use APIs to customize your software for client businesses)
-Eng, design, build tech
-Dev for int/custos: design docs, use cases, tech requirement docs,
-trainers (teach cos how to use product)
-Goal: to learn enough about trainer to teach trainees
-Great testers for docs and distribute docs
-Custo support reps
-Steps for determining what to write
-Purpose for reading
-What aud needs to know
-What they already know
-If they need proof
-The audience doesn’t need to know everything you need to know.
+* end users (want info immediately and w/zero interferance
+    * Novice: know nothing about product, but know about their business; must always provide docu for novice; need short, simple quickstart guides; not interested in references, want to jump straight into function
+    * Expert: wants to know how to do MORE; has used product for long time, but reaches an error; wants searchable, context-sensitive help; will rely on release notes
+* Installers
+    * Useful to find internal person(qa, eng, ops)  to act as installer for your docu
+    * Should include install guides, quick-reference steps, upgrade instructions, config material, quickstart install cards/posters
+* operations people (manage data center)
+    * IT to data center
+    * Job is to keep company running day-to-day
+    * Need to know how to keep hardware from going down
+        * Op guides, networking guides, troubleshooting, reference docs, system admin
+* devs (use APIs to customize your software for client businesses)
+    * Eng, design, build tech
+    * Dev for int/custos: design docs, use cases, tech requirement docs,
+* trainers (teach cos how to use product)
+    * Goal: to learn enough about trainer to teach trainees
+    * Great testers for docs and distribute docs
+* Custo support reps
+* Steps for determining what to write
+    * Purpose for reading
+    * What aud needs to know
+    * What they already know
+    * If they need proof
+* **The audience doesn’t need to know everything you need to know.**
 
 SMEs
 Anyone from inventor to guy in mail room. Depends on topic
@@ -345,12 +345,12 @@ Anyone from inventor to guy in mail room. Depends on topic
 LEARNING OBJECTIVES
 Intended goal or outcome; provide director for content and also users
 Three types:
-Awareness: User should be able to identify, summarize, describe a concept or feature
-Comprehension: user should be able to understand how feature applies to their use case
-Applicable skill: user should be able to follow instructions to complete a task
+* Awareness: User should be able to identify, summarize, describe a concept or feature
+* Comprehension: user should be able to understand how feature applies to their use case
+* Applicable skill: user should be able to follow instructions to complete a task
 Learning objectives are NOT the same as user goals
 User goals: pragmatic, real-world solutions to real problem
 Learning objective: identifies skills a user needs to achieve user goals
 Ex. “The user should be able to follow/repeat/identify/describe/choose…”
-Bennies: Having one defined objective helps you create modular content that reduces the chance of overlap with other docu.
+Bennies: **Having one defined objective helps you create modular content that reduces the chance of overlap with other docu.**
 Easier to: research, create, organize
