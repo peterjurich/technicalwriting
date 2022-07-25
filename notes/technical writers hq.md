@@ -1,5 +1,28 @@
 **Tools to know: SnagIt, Tango, ClickUp, Loom, Screencastify**
 
+Main bottleneck is communication. Documentation outlines for good TW's include:
+* Vision
+* Planning
+* Execution
+
+TW not just about writing.
+For ex.: Typical workflow is:
+1. PM freezes requirements
+2. UX team devs mockups
+3. Devs deliver code for mockups
+4. Testers test for bugs
+5. TWs deliver docs for feature
+6. Internal release
+7. goes to market
+
+How is TW is engaged at every step:
+1. Works on a timeline from release date working backwards; PM walks TW through user story
+2. TW write user interface streams that are simple, intuitive, and effective.
+3. Provides any texts like error, prompts, etc. that users will see.
+4.TW tests feature as an end user. TW becomes first customer, which aids in docu.
+5. By now, TW should have 75% of knowledge to work on docu, which is shared with stakeholders.
+Actual docu is 35-40%, but 60-65% for everything else.
+
 TWs and Product Managers are very similar: conductv similar research, articulate big picture goals, priorities, 
 TWs bridge real world problems w/optimal solutions and bring something new into existence
 TW is audience champion, a point of clarity, team players, editors, excellent researchers
@@ -293,6 +316,15 @@ How can we org content on website? How do topics relate? Do they need links to r
 Feedback: a company w/a feedback plan has a better chance of succeeding. Product, docu, eng, ux and edu teams should all meet to address common problems
 **The more you understand the user journey, the more you understand the product you’re offering.**
 
+INFORMATION ARCHITECTURE
+IA is how info is structured on website or app. A visual representation of features, interactions, and hierarchy. Answers where can I get info fast and easily.
+Connects three elements:
+* user
+    * Focus on who your mapping out for bc ppl look for info in diff ways and diff kinds of info (mental models will help)
+* content
+    * 
+* context
+    * 
 COMMON WRITING PROBLEMS
 Poor design; lack of accessibility; not mobile optimized; poor maintenance; inconsistencies; mistargeting; no feedback channels; lack of structure & collab; stagnation
 Don’t make your audience think. **If they’re thinking, you’ve already lost them.** The more they think, the less clarity you’ve given. **Does it make them think or take action?**
