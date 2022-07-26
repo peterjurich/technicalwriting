@@ -253,17 +253,12 @@ One if x is an odd number: x % 2
 10. Operators
 Comparative operators: several binary operators that compare values
 
-== Equal to
-
-!= Not equal to
-
-> Greater than
-
-< Less than
-
->= Greater than or equal to
-
-<= Less than or equal to
+* == Equal to
+* != Not equal to
+* > Greater than
+* < Less than
+* >= Greater than or equal to
+* <= Less than or equal to
 
 3:48
 2. Programming with data
@@ -292,20 +287,19 @@ Equals is == because = is already taken by assignment of values
 10. Operators
 Assignment shortcuts in C-style languages:
 
-++ Add one, so x++ is the same as x = x + 1
+* ++ Add one, so x++ is the same as x = x + 1
+* -- Subtract one
+* += Add something
+* -= Subtract something
+* *= Multiply something, or x = x * 3
+* /= Divide something
+* %= Mod something
 
--- Subtract one
-
-+= Add something
-
--= Subtract something
-
-*= Multiply something, or x = x * 3
-
-/= Divide something
-
-%= Mod something
-
+String operators
+* + Adds two strings
+* == Compares two strings to see if equal
+* =! Compares two strings to see if not equal
+                   
 7:00
 2. Programming with data
 10. Operators
@@ -318,10 +312,10 @@ Two comparison string operators: == (equal to) and != (not equal to)
 10. Operators
 Boolean operators:
 
-&& (And) where both values need to be true for it to return true
-
-|| (Or) where one value needs to be true for it to return true
-
+* && (And) where both values need to be true for it to return true
+* || (Or) where one value needs to be true for it to return true
+* ! (Not)
+                   
 10:00
 2. Programming with data
 10. Operators
