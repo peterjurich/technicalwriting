@@ -59,6 +59,8 @@ Found on pricing pages
 RELEASE NOTES
 Tech docs distributed that contain bug fixes and added features. Keeps readers informed and feeling heard.
 Keep em brief. Avoid tech jargon, use plain language. Link to FAQs re: added features. Don’t be afraid to sound excited!
+Lets users know their feedback was heard. Don't be afraid to sound excited about new features
+Can be released in blog, social media, in-app messaging
 
 INSTRUCTION PRODUCT MANUALS:
 Diff fr user  bc it focuses on how-to task. User guide has that but also non-task questions
@@ -317,14 +319,23 @@ Feedback: a company w/a feedback plan has a better chance of succeeding. Product
 **The more you understand the user journey, the more you understand the product you’re offering.**
 
 INFORMATION ARCHITECTURE
-IA is how info is structured on website or app. A visual representation of features, interactions, and hierarchy. Answers where can I get info fast and easily.
+IA is how info is structured on website or app. A visual representation of features, interactions, and hierarchy. Answers where can I get info fast and easily. Good IA is esssential for ranking on Google.
 Connects three elements:
 * user
     * Focus on who your mapping out for bc ppl look for info in diff ways and diff kinds of info (mental models will help)
 * content
-    * 
+    * the information itself 
 * context
-    * 
+    * The place for the information
+Cognitive load: How can we make sure users are not overwhelmed and info remains relevant? Use filters, sorting options, save information, compare info tables
+Content audits looks at all info on website and map the structure.
+Visual hierarchy makes it easier for users to scan a webpage or to see elements or pieces of info in relation to each
+Good IA also takes into account emotional part of user journey.
+
+HOW TO CREATE IA
+A single doc that has simple and understandable rep of how app or website works is vital for developing new features, updating old ones, or seeing what is possible moving forward.
+Where used? Knowledge bases,linking docu, making docu easier for users to find.
+    
 COMMON WRITING PROBLEMS
 Poor design; lack of accessibility; not mobile optimized; poor maintenance; inconsistencies; mistargeting; no feedback channels; lack of structure & collab; stagnation
 Don’t make your audience think. **If they’re thinking, you’ve already lost them.** The more they think, the less clarity you’ve given. **Does it make them think or take action?**
