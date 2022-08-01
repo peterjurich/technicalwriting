@@ -1,0 +1,24 @@
+REST (REpresentational State Transfer) method for client devices and services to pass data back and forth
+A category of web APIs, or how softwares communicate over web.
+Most popular
+Request: "Please send me the state of my feed"
+Response: "I am sending you data that represents the state of your feed."
+
+REST
+Is a Design pattern (a set of guidelines) not protocol (which must match exactly (like a USB)
+"RESTful API" is common term
+REST uses HTTP same protocol that web addreses use
+Resource is a piece of data that reps something (username, ex.)
+REST is independent of format; JSON is popular
+It is stateless, state of device not stored on server: up to browser to keep track of math, not the server
+
+SOAP (Simple Object Action Protocol)
+Previously most common web API, not simple
+Only supports xml.
+It is a protocol, not a design pattern, so advantages and disadvantages
+
+REST REQUESTS
+Method: actions you take by making a request. GET, POST, DELETE, are examples
+
+QUERY PARAMETERS
+key/value pairs
