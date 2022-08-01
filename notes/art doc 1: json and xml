@@ -1,0 +1,60 @@
+INTRO
+API: Application Programming Interface.
+How two apps communicate. Servers only return data, not webpage
+APIs allow devs to create apps that mash up data from diff sources
+Ex. City API of where dog parks are and Google API for location
+JSON and xml are two types of structured data, which does not fit well into table.
+structured data is more like a tree w/many branches
+
+DATA TYPES & STRUCTURED DATA
+Integers, decimals, text, T/F, dates are all data types.
+JSON uses only numbers, strings, and Boolean.
+XML only uses strings
+Any check boxes is a Boolean
+
+Can have groups of data called Collections. Two common types:
+1. Arrays (list of data values) always have
+size (how many are in the list)
+and an order (which object comes first)
+2. Dictionaries (list of data keys and values)
+Use key (word) to look up value (definition)
+
+STRUCTURED DATA combines data types and collections (of collections if needed)
+API responses are almost always structured data
+Requests sometimes have structured data
+
+JSON (JavaScript Object Notation) created to hold structured language in JS
+Most popular way for web APIs
+Uses arrays (in brackets, comma seperated, mixed data types) and
+objects (dictionaries) enclosed in curly brackets, keys and values seperated by colon,
+pairs seperated by commas, any data types, but string is popular key type
+
+NESTING: objects and arrays inside of one another
+Two ways to handle it:
+1. Indentation best for no objects used, take up less space;
+Table for each object type: best for reused objects; take up more space
+
+
+DOCUMENTING JSON
+Start w/sentence for what it represents.
+Then table w/Element (key name), description, type, and notes columns (good template for JSON responses)
+Request table is identical except should have a required column
+If it IS optional, then there should be a default value in the notes
+***If indenting in file, indent in table, too, so Element column has two subcolumns
+Making up names for object types is OK.
+
+XML (eXtensible Markup Language) is like html except it holds any kind of structured data.
+2 ways of handling data
+1. tags: angle bracets on both sides < and />
+Tag names must only be letters, numbers, and underscores
+Content goes btw tags, which can have other tags (tested data)
+
+2. Attributes
+Key/value pairs that are all string and no quote. Only letters, numbers, underscores
+Attributes appear in start tag: key="value"
+Used to indicate a property of data (metadata)
+first line indicates that files is xml, don't need to docu
+
+USE STRUCTURED DATA FOR DOCU
+Using structured data means docu is "machine readable"
+Can do automated testing or interactive docu
