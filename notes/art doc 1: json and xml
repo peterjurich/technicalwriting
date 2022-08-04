@@ -47,14 +47,23 @@ XML (eXtensible Markup Language) is like html except it holds any kind of struct
 2 ways of handling data
 1. tags: angle bracets on both sides < and />
 Tag names must only be letters, numbers, and underscores
-Content goes btw tags, which can have other tags (tested data)
+Content goes btw tags, which can have other tags (nested data)
 
 2. Attributes
 Key/value pairs that are all string and no quote. Only letters, numbers, underscores
 Attributes appear in start tag: key="value"
 Used to indicate a property of data (metadata)
+You can have more than one attribute by adding a space btw attributes
+Ex. <projectedValue decimals="2" confidence="5">23.45</projectedValue>
 first line indicates that files is xml, don't need to docu
 
 USE STRUCTURED DATA FOR DOCU
 Using structured data means docu is "machine readable"
 Can do automated testing or interactive docu
+Like with HTML, comments in XML start with <!-- and end with -->
+Use namespaces followed by a colon to repeat tag names in different contexts.
+Ex. <sdkbridge> and <sdkbridge:onlineCourse>
+
+SCHEMAs describe the structure of an XML file. (called a XSD or "XML Schema Definition")
+describes what tags, attributes, and types there are. helpful in docuing xml
+
