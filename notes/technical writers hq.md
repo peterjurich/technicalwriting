@@ -335,6 +335,8 @@ Good IA also takes into account emotional part of user journey.
 HOW TO CREATE IA
 A single doc that has simple and understandable rep of how app or website works is vital for developing new features, updating old ones, or seeing what is possible moving forward.
 Where used? Knowledge bases,linking docu, making docu easier for users to find.
+Follows similar patterns to flow charts.
+                                                                 
     
 COMMON WRITING PROBLEMS
 Poor design; lack of accessibility; not mobile optimized; poor maintenance; inconsistencies; mistargeting; no feedback channels; lack of structure & collab; stagnation
