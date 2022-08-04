@@ -336,7 +336,24 @@ HOW TO CREATE IA
 A single doc that has simple and understandable rep of how app or website works is vital for developing new features, updating old ones, or seeing what is possible moving forward.
 Where used? Knowledge bases,linking docu, making docu easier for users to find.
 Follows similar patterns to flow charts.
-                                                                 
+Two major requirements:
+1. Organizing in visual hierarchy
+2. Creating a legend to display every engagement point uniquely
+The most important factors to building IA are where individ componants of arch are placed
+CONSTRUCTING IA Each piece needs individ research an dev
+Sitemaps orgs pages numerically
+Card-sorting: items on cards and moved into categories
+Tree-testing: reverse card-sorting where users find things in tree
+**TOOLS FOR IA
+* draw.io (free)
+* Lucidchart**
+BEST PRACTICES
+Focus on structure, not hierarchy
+All processes need logic
+Remember UX
+Remember you're a map maker: TWs decide what goes into IA design
+IA changes based on user needs
+The better team knows IA, the more they can explore what's possible.
     
 COMMON WRITING PROBLEMS
 Poor design; lack of accessibility; not mobile optimized; poor maintenance; inconsistencies; mistargeting; no feedback channels; lack of structure & collab; stagnation
@@ -399,3 +416,4 @@ Learning objective: identifies skills a user needs to achieve user goals
 Ex. “The user should be able to follow/repeat/identify/describe/choose…”
 Bennies: **Having one defined objective helps you create modular content that reduces the chance of overlap with other docu.**
 Easier to: research, create, organize
+Benefits of: docu is easier to create, organize, and maintain.
