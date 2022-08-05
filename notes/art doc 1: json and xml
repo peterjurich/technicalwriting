@@ -67,3 +67,16 @@ Ex. <sdkbridge> and <sdkbridge:onlineCourse>
 SCHEMAs describe the structure of an XML file. (called a XSD or "XML Schema Definition")
 describes what tags, attributes, and types there are. helpful in docuing xml
 
+DOCUMENTING XML
+API request will always specify btw JSON and XML
+Biggest diff is JSON does not have attributes (key/value pairs)
+If both used in an API, then XML doesn't have attributes
+Add attributes into notes if there are only a few attributes in code.
+
+SIMPLE TYPES
+are strings, but software will convert to number, Boolean, date, etc., so it's important to note the type
+
+One table per element type works well for XML.
+Tables for request/response tables similar to JSON
+
+
