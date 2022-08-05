@@ -416,4 +416,16 @@ Learning objective: identifies skills a user needs to achieve user goals
 Ex. “The user should be able to follow/repeat/identify/describe/choose…”
 Bennies: **Having one defined objective helps you create modular content that reduces the chance of overlap with other docu.**
 Easier to: research, create, organize
-Benefits of: docu is easier to create, organize, and maintain.
+User goals: pragmatic, real-world solutions to real problems
+Benefits of: Having one overriding goal reduces the chance of repeated docu
+docu is easier to create, organize, maintain, and use.
+A learning objecttive's exit criteria should indicate where the reader should be by the time they finish reading. It is like a marker on a map.
+Knowing the starting point means knowing your audience. Identify pre-reqs.
+USE A L.O. MATRIX
+1. Begin by marking a plot on the matrix. Imagine where you want the user to be
+2. Write the L.O.
+3. Adjust plotting.
+4. Repeat.
+5. Share and discuss.
+Ask "Is this something the learner will actually do in the real world?"
+Refining an objective: may need to break one objective into several more.
