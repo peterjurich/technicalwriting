@@ -430,5 +430,63 @@ USE A L.O. MATRIX
 Ask "Is this something the learner will actually do in the real world?"
    
 Refining an objective: may need to break one objective into several more. They should be action oriented.
+Questions to ask:
+1. Does it support real world user goals?
+2. Is the user better equipped to solve a problem?
+3. Is there a clear starting point?
+4. Is there a clear destination?
+5. Can it be categorized into awareness, comprehension, or applicable skill?
+Most common problem of LO's is overreaching and try to accomplish to much at once.
+Another common problem is helping users work around poor design.
+QUESTIONS FOR REFINING
+* What does the user need to achieve this goal?
+* How much does the user need to know?
+* How does a user know that they've met the L.O.?
+REFINE DESTINATION
+User should be able to fgollow and repeat steps
 
-Does it support user go
+EFFECTIVE L.O's
+Figuring out what does belong is just as important as figuring out what doesn't.
+Plan scope carefully and focus user's attention.
+Talk to team's product manager. Sales and support can be good resources.
+Ask them to review
+OBJECTIVE TIPS
+If prod reqs don't exist, ask scrum or product team to provided
+Engineering internal docs help you figure out how to get the user to their L.O.
+QA anticipates users needs
+User feedback shows you whether you are identifying L.O. effectively
+Make it easy for PMs to review and give feedback
+Embed yourself in the product dev cycle (allows you to get deep understanding of product
+Raise issues promptly
+Champion efficiency ("Hey, you can unblock me by X, Y, and Z.")
+Share custo feedback
+
+USER INTERVIEWS
+Goals:
+* Compare motivation for product use
+* Understand behaviour patterns
+* Study learning curve and adoption
+* Learn what users think
+Basics:
+* need a good amount of interriewees
+* Who are they (role, age, country, co. size)
+* Don't ask:
+    * What problem do you have?
+    * Do you consider yourself ____?
+    * Would you like/what kind of features do you want?
+    * Do you agree that...?
+* Do ask:
+    * for observations
+    * how you do this task
+    * When was the last time you did X?
+    * How much time did it take?
+    * What was the outcome?
+    * How satisfied were you?
+    * Concrete behaviours and current behaviours
+    
+GOOGLE ANALYTICS
+To show that your twing is providing a benefit to the company
+Helps to find insights to knowledgebase articles
+Do people actually get benefit from articles? Where do they go after reading it?
+Do they become a customer?
+All you need to do is check out your internal site search analytics (make sure it’s enabled). Just go to Behavior > Site Search > Overview to see the common terms people are searching for. (Tip: You can compare time periods and sort by “absolute change” to see rising trends over time.)
