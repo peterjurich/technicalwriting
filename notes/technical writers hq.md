@@ -428,4 +428,7 @@ USE A L.O. MATRIX
 4. Repeat.
 5. Share and discuss.
 Ask "Is this something the learner will actually do in the real world?"
-Refining an objective: may need to break one objective into several more.
+   
+Refining an objective: may need to break one objective into several more. They should be action oriented.
+
+Does it support user go
