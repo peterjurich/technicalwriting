@@ -79,4 +79,26 @@ are strings, but software will convert to number, Boolean, date, etc., so it's i
 One table per element type works well for XML.
 Tables for request/response tables similar to JSON
 
+TOOLS
+It's important to use tools that can make tables, links to other part of docu, and monospace for sample requests/responses.
+Wikis like  MediaWiki, TWiki, Confluence, and MindTouch.
+Commercial tools like Flare, Robohelp, and Help & Manual.
+DITA, not so much for API.
 
+USING STRUCTURED DATA FOR DOCU
+Structured data is "machine readable"
+
+REVIEW
+API
+Device makes request and server responds
+
+Data types
+
+JSON
+Strings, numbers, and Booleans. Arrays [lists] and objects {dictionaries w/ key/value pairs}
+Best docu'd in tables.
+
+XML
+Begins w/decaration of xml
+Has tags and attributes
+JSON and XML will often be in same table, so make room for both
