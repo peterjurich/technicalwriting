@@ -12,13 +12,32 @@ Resource is a piece of data that reps something (username, ex.)
 REST is independent of format; JSON is popular
 It is stateless, state of device not stored on server: up to browser to keep track of math, not the server
 
-SOAP (Simple Object Action Protocol)
+SOAP (Simple Object Access Protocol)
 Previously most common web API, not simple
 Only supports xml.
 It is a protocol, not a design pattern, so advantages and disadvantages
 
 REST REQUESTS
-Method: actions you take by making a request. GET, POST, DELETE, are examples
+5 Parts to understand:
+1. METHOD: verb actions you take by making a request. GET, POST, DELETE, are examples
+2. URL: what taking action on
+3. QUERY PARAMETERS: refine action in some way; key/value pairs (like JSON); ex. "q="
+4. HEADERS: store information about the request; most commonly used for data formats and authorization
+5. BODY: contains additional data, typically JSON or XML, media; only POST or PUT have bodies, not GET or DELETE
 
-QUERY PARAMETERS
-key/value pairs
+RESOURCES & HOW REPRESENTS
+Represents a data concept
+Ex. (teachers, students, courses, assignments)
+Put in URL to let REST know what you're requesting with ID
+Endpoints are URLs that correspond to resource.
+Resources can contain resources (ex. airlines have flights specific to them)
+Proper resource labeling in RESTful is plural nouns
+
+METHODS
+HTTP Method: typing a url and hitting return, that's a GET; filling out a form in a browser is a POST
+What can you do with a resource? CRUD! Create (POST), Retrieve(GET), Update(POST), Delete (DELETE)
+GET: to retrieve data; have no body; use IDs to specify an object
+POST: create a new resource object; data for creating is in body
+PUT: modify existing resource object; data for updating object is in body; use IDs to specify an object
+DELETE: to delete objeect; no body; use IDs in url to specify object
+Not all requests fit model
