@@ -490,3 +490,25 @@ Helps to find insights to knowledgebase articles
 Do people actually get benefit from articles? Where do they go after reading it?
 Do they become a customer?
 All you need to do is check out your internal site search analytics (make sure it’s enabled). Just go to Behavior > Site Search > Overview to see the common terms people are searching for. (Tip: You can compare time periods and sort by “absolute change” to see rising trends over time.)
+
+SCOPE & PURPOSE
+All docs should have them
+Good purpose statement is foundation
+* put at top of doc, analyze reasons for writing/readering
+Five parts of purpose statement: example
+1. Type of document: this report
+2. What the doc does: details
+3. Info audience needs: ACME's operations history, market share, management, plus best/worst case scenarios
+4. Who audience is: product mgmt team
+5. What they do with info: recommend roadmap to company stakeholders
+Tips:
+* Ensure actor fits topic/outcome
+* Ensure action makes sense
+* Reearrange 5 parts for emphasis
+* Omit actor is evident
+* Use two sentences if necessary
+
+GATHERING INFORMATION
+Use purpose statement to limit the scope of your learning
+Gather info, then report what relevant. DON'T go out of scope. Audience doesn't care about your research.
+
