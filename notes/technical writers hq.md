@@ -513,5 +513,7 @@ Use purpose statement to limit the scope of your learning
 Gather info, then report what relevant. DON'T go out of scope. Audience doesn't care about your research.
 
 SENTENCE STRUCTURE & DESIGN
-The point is not to make a point within a point within...
-                                                                 
+The point is not to make a point within a point within... Keep it at a high level - 2 at the most.
+Outline body only.
+Don't write how you speak.
+Keep 
