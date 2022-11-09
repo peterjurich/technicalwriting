@@ -512,3 +512,6 @@ GATHERING INFORMATION
 Use purpose statement to limit the scope of your learning
 Gather info, then report what relevant. DON'T go out of scope. Audience doesn't care about your research.
 
+SENTENCE STRUCTURE & DESIGN
+The point is not to make a point within a point within...
+                                                                 
