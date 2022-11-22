@@ -79,3 +79,6 @@ Float: Fraction, but will change to whole number if defined as float
 Data structures: lists use [], tuples use (), sets use {}  
 Range: x = range(5) will bull up (0,5)
 bytes
+complex: a number and letter combo like 6j
+
+# Operators
