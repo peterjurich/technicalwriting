@@ -27,3 +27,39 @@ For example
 if 5>2:
     print ("Yes, five is greater than two")
 print("No, five is not greater than two")
+
+# Comments
+Explain the code to make it more readable.
+Also prevents execution of test code.
+Create comments by using pound sign (#) at the beginning, if single line of code
+Alternatively, use """ at the beginning and end of an entire block.
+Can put comments at the end of a line of code, too.
+For example: print ("Hello world") #This is a printing code
+
+# Variables
+Act as a container for data values
+
+## Rules for naming variables
+Must start with letter or underscore.
+CANNOT start with a number
+Names are case sensative
+
+You can give variables in the same line
+For example: x, y, z = "A", "B", "C"
+Can print as:
+print(x)
+print(y)
+print(z)
+or print (x, y, z)
+
+### Multi-word names
+Camel case: Each word except the first is capitalized
+myVariableName
+
+Pascal Case: Every word capitalized
+MyVariableName
+
+Snake Case: each word seperated by an underscore
+my_variable_name
+
+# Keywords
