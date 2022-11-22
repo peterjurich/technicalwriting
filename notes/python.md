@@ -64,3 +64,18 @@ my_variable_name
 
 # Keywords
 <img src="https://github.com/peterjurich/technicalwriting/blob/150d55f8ae2a968b948c4c63202039970a5d2a68/notes/Screenshot%202022-11-22%20at%2010.18.05%20AM.png" alt="A table of Python keywords" title="A table of Python keywords">
+
+# Data types
+Look up types by
+x = 'string'
+print(type(x))
+Should pull up 'str'
+
+Can change data types halfway through code
+
+String: words in quotes
+Int: Numbers
+Float: Fraction, but will change to whole number if defined as float
+Data structures: lists use [], tuples use (), sets use {}  
+Range: x = range(5) will bull up (0,5)
+bytes
