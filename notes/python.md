@@ -82,3 +82,44 @@ bytes
 complex: a number and letter combo like 6j
 
 # Operators
+## Arithmatical
++
+-
+*
+/
+% brings up the remainder
+// converts fraction answer into a whole number (not not round up)
+** It is x to the power of y, where x ** y
+
+## Assignment
+=
++= (add a number, i.e. x += 5) 
+-= subtract a number
+*= multiple by number
+/= divide by a number
+//= divide, but no fraction
+%= for remainder
+**= to the power of
+
+## Comparison:
+> greater than
+< less than
+>= greater than/equal to
+<= less than/equal to
+== is equal to
+!= is not equal to
+
+## Logical:
+x = 2
+print (x>1 and x<5) will bring up True
+
+and: if both conditions are True, will print True
+
+or: if at least 1 is True
+
+not: include before print to do opposite
+x = 2
+print (not (x>2 or x<5)
+False
+
+# Conditions
