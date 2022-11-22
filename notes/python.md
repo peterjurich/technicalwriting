@@ -63,3 +63,4 @@ Snake Case: each word seperated by an underscore
 my_variable_name
 
 # Keywords
+<img src="https://github.com/peterjurich/technicalwriting/blob/150d55f8ae2a968b948c4c63202039970a5d2a68/notes/Screenshot%202022-11-22%20at%2010.18.05%20AM.png" alt="A table of Python keywords" title="A table of Python keywords">
