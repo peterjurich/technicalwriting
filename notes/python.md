@@ -2,31 +2,38 @@
 A dynamic, interpreted language
 No declarations of variables, etc. source code makes it short and flexible
 No need to remember syntax.
+
 ## Why use it?
 Readable, easy to learn, free, cross platform, open source, large standard library
+
 ## What can it do?
 Create web apps, use along software workflows, big data and complex math, rapid prototyping and production ready software dev.
+
 ## Need for Python?
 Can work on many platforms, easy syntax for beginners, code can be executed as soon as its written (interpreted system) so prototyping is quick
 Can be treated in a procedural way, an object-oriented way, or a functional way
+
 ## How different?
 Designed for readability
 Uses new lines to complete a command
 Relies on indentation and white space
+
 # Basic Syntax
 Data input/output, basic syntax, practical examples
+
 ## Indentation
 Code usually written in blocks. Indentation helps define blocks
 Non-indented code is start of the block. Subsequent must be indented by one level.
+
 ### Rules for indenting
 Do not indent first line of code.
 The way you indent the second line must be the same way you indent subsequent lines.
 It is best to use 1 tab or 4 white spaces
 To indent automatically, use a colon
 For example
-if 5>2:
+`if 5>2:
     print ("Yes, five is greater than two")
-print("No, five is not greater than two")
+print("No, five is not greater than two")`
 
 # Comments
 Explain the code to make it more readable.
@@ -45,12 +52,12 @@ CANNOT start with a number
 Names are case sensative
 
 You can give variables in the same line
-For example: x, y, z = "A", "B", "C"
+For example: `x, y, z = "A", "B", "C"`
 Can print as:
-print(x)
+`print(x)
 print(y)
-print(z)
-or print (x, y, z)
+print(z)`
+or `print (x, y, z)`
 
 ### Multi-word names
 Camel case: Each word except the first is capitalized
@@ -110,16 +117,60 @@ complex: a number and letter combo like 6j
 != is not equal to
 
 ## Logical:
-x = 2
-print (x>1 and x<5) will bring up True
+`x = 2
+print (x>1 and x<5)` will bring up True
 
 and: if both conditions are True, will print True
 
 or: if at least 1 is True
 
 not: include before print to do opposite
-x = 2
+`x = 2
 print (not (x>2 or x<5)
-False
+False`
 
 # Conditions
+Basic operators are ==, !=, <, >, <=, >=
+
+## if
+First conditional
+`if a > b:`
+
+## elif
+Second conditional if first is false
+`if b > a:`
+
+## else 
+If neither first nor second conditional are true. This has no condition attached
+else:
+
+## else if
+If no second condition, you can simply go from if: to else:,
+
+Can combine comparison and logical operators:
+`a = 200
+b = 100
+c = 300
+if a > b and c > a:
+    print("Yes, both conditions are true.")`
+
+## nested if
+An if condition that is true only if another if is true
+`x = 40
+if x > 10:
+    print("Greater than 10")
+    if x > 20:
+        print("Greater than 20")
+        if x > 30:
+            print("Greater than 30")`
+
+## one line statement to define if
+Can also write on same line, so `print ("True") if a < b else print ("False")`
+
+Can do multiple conditionals on one line:
+`a = 3
+b = 30
+print("True part of a > b") if a > b else print("True part of a == b") if a < b else print("B")`
+Brings up `True part of a == b`
+
+# Loops
