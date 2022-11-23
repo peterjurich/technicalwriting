@@ -205,9 +205,11 @@ src="https://github.com/peterjurich/technicalwriting/blob/64eb3af0f1a18113046d37
 
 ## List
 Is mutable: can add and delete items from list
+### List methods
 ## Tuple
 Immutable: cannot add or delete items
 ## Set
 Immuntable and unordered
 ## Dictionary
 Unordered, changeable, indexed
+
