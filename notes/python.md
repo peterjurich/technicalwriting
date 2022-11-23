@@ -174,3 +174,28 @@ print("True part of a > b") if a > b else print("True part of a == b") if a < b 
 Brings up `True part of a == b`
 
 # Loops
+Can use `continue` and `break` to determine whether the loop goes on.
+
+## While loops
+As long as something is true, loop will continue
+
+## For loops
+
+Defining properties in lists?
+
+`list = ["car", "cycle", "bus"]
+for a in list:
+    print(a)`
+will default a to all items in the list and pull up
+`car
+cycle
+bus`
+
+### Nested for loops
+`fruits = ["apple", "banana", "grapes"]
+color = ["red", "yellow", "green"]
+
+for x in color:
+    for y in fruits:
+        print (x,y)`
+        
