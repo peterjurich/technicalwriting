@@ -200,7 +200,7 @@ for x in color:
         print (x,y)`
         
 # Data structures (arrays)
-src="https://github.com/peterjurich/technicalwriting/blob/64eb3af0f1a18113046d37c882b219f0a38678df/notes/Screenshot%202022-11-23%20at%201.14.50%20PM.png" alt="Data structures and their attributes" title="Data structures and their attributes">
+<src="https://github.com/peterjurich/technicalwriting/blob/64eb3af0f1a18113046d37c882b219f0a38678df/notes/Screenshot%202022-11-23%20at%201.14.50%20PM.png" alt="Data structures and their attributes" title="Data structures and their attributes">
 
 ## List
 Is mutable: can add and delete items from list
