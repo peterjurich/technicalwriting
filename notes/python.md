@@ -90,10 +90,7 @@ complex: a number and letter combo like 6j
 
 # Operators
 ## Arithmatical
-+
--
-*
-/
++, -, *, /
 % brings up the remainder
 // converts fraction answer into a whole number (not not round up)
 ** It is x to the power of y, where x ** y
@@ -205,6 +202,7 @@ src="https://github.com/peterjurich/technicalwriting/blob/64eb3af0f1a18113046d37
 
 ## List
 Is mutable: can add and delete items from list
+To call specific spot in list, use something like `list[1]`
 ### List methods
 <img
 src="https://github.com/peterjurich/technicalwriting/blob/02040e7af037708c38662b718f92b4d9eaa819b3/notes/Screenshot%202022-11-23%20at%201.23.44%20PM.png" alt="List methods" title="List methods">
