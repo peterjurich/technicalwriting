@@ -213,16 +213,16 @@ src="https://github.com/peterjurich/technicalwriting/blob/02040e7af037708c38662b
 Immutable: cannot add or delete items
 ### Tuple methods
 <img
-src="https://github.com/peterjurich/technicalwriting/blob/02040e7af037708c38662b718f92b4d9eaa819b3/notes/Screenshot%202022-11-23%20at%201.23.44%20PM.png" alt="Tuple methods" title="Tuple methods">
+src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Tuple%20methods.png" alt="Tuple methods" title="Tuple methods">
 
 ## Set
 Immuntable and unordered
 ### Set methods
 <img
-src="https://github.com/peterjurich/technicalwriting/blob/02040e7af037708c38662b718f92b4d9eaa819b3/notes/Screenshot%202022-11-23%20at%201.23.44%20PM.png" alt="Set methods" title="Set methods">
+src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Set%20methods.png" alt="Set methods" title="Set methods">
 
 ## Dictionary
 Unordered, changeable, indexed
 ### Dictionary methods
 <img
-src="https://github.com/peterjurich/technicalwriting/blob/02040e7af037708c38662b718f92b4d9eaa819b3/notes/Screenshot%202022-11-23%20at%201.23.44%20PM.png" alt="Dictionary" title="Dictionary methods">
+src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Dictionary%20methods.png" alt="Dictionary" title="Dictionary methods">
