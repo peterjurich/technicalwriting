@@ -199,3 +199,12 @@ for x in color:
     for y in fruits:
         print (x,y)`
         
+# Data structures (arrays)
+## List
+Is mutable: can add and delete items from list
+## Tuple
+Immutable: cannot add or delete items
+## Set
+Immuntable and unordered
+## Dictionary
+Unordered, changeable, indexed
