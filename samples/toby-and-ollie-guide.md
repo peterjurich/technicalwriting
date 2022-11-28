@@ -1,5 +1,5 @@
 # Toby & Ollie: A Technical Guide
-
+<img src="https://github.com/peterjurich/technicalwriting/blob/150d55f8ae2a968b948c4c63202039970a5d2a68/notes/Screenshot%202022-11-22%20at%2010.18.05%20AM.png" alt="A table of Python keywords" title="A table of Python keywords" width="100" height="100">
 ![tobyAndOllie](https://user-images.githubusercontent.com/79016347/204336210-057d5a68-5a85-4cc7-bbcb-ace94b1d2892.jpg)
 
 ## Introduction
