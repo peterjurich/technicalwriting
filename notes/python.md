@@ -209,18 +209,46 @@ src="https://github.com/peterjurich/technicalwriting/blob/02040e7af037708c38662b
 
 ## Tuple
 Immutable: cannot add or delete items
+Can change a list to a tuple by changing brackets [] to parentheses ()
+However, tuples are immutable, so cannot be appended, for example.
 ### Tuple methods
 <img
 src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Tuple%20methods.png" alt="Tuple methods" title="Tuple methods">
 
 ## Set
-Immuntable and unordered
+Immutable and unordered, so they can appear in a different order everytime they are run
+does not print duplicates, so `set2 = {"apple", "banana", "grapes", "grapes"}` will bring up `{'banana', 'grapes', 'apple'}`
+Can still use `set.add()`, `set.pop()`, and `set.clear()`
 ### Set methods
 <img
 src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Set%20methods.png" alt="Set methods" title="Set methods">
 
 ## Dictionary
 Unordered, changeable, indexed
+For example:
+`dict = {
+    "model":"Alto",
+    "color":"red",
+    "year":"2000"
+}
+print(dict)
+print(dict["model"])
+print(len(dict))
+print(type(dict))`
 ### Dictionary methods
 <img
 src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Dictionary%20methods.png" alt="Dictionary" title="Dictionary methods">
+Keys method is unique to dictionaries, will return all values currently assigned to this item.
+`x = dict.keys()
+print(x)`
+returns `dict_keys(['model', 'color', 'year'])`
+
+Similarly,
+`a = dict.values()
+print(a)`
+will return `dict_values(['Alto', 'red', '2000'])`
+
+Printing `a = dict.listems()`, on the other hand, will return:
+`dict_items([('model', 'Alto'), ('color', 'red'), ('year', '2000')])`
+
+#Functions
