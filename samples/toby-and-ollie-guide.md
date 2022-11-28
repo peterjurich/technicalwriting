@@ -1,5 +1,7 @@
 # Toby & Ollie: A Technical Guide
 
+![tobyAndOllie](https://user-images.githubusercontent.com/79016347/204336210-057d5a68-5a85-4cc7-bbcb-ace94b1d2892.jpg)
+
 ## Introduction
 
 If you’re reading this, that means you have agreed to watch our dogs for a bit. So first of all: THANK YOU! Your help really means the world to us. And we’re sure you’ll find that watching our two little pups will be a walk in the park.
@@ -33,7 +35,9 @@ Ollie, on the other hand, would rather do literally anything else, but will part
 
 You’ll find their leash hanging on the coat rack next to the front door.
 
-This video explains how to clip them in, as well as some general tips for success.
+This video explains how to clip them in, as well as some general tips for success:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G5z9p-DDJ2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 There are black poop bags in the white canvass bag by the front door. But if you’re all out, there’s a bag station at the end of the block on the other side of the parking lot.
 
