@@ -251,4 +251,47 @@ will return `dict_values(['Alto', 'red', '2000'])`
 Printing `a = dict.listems()`, on the other hand, will return:
 `dict_items([('model', 'Alto'), ('color', 'red'), ('year', '2000')])`
 
-#Functions
+# Functions
+`def` to define functions
+
+`#Parameter goes in the parentheses of next line.
+def first_function(full_name):
+    #+ Arguments go into the following
+    print(full_name + " Smith")`
+    
+The terms 'parameters' and 'argument' can be used similarly for how information is being passed to a function. From a function perspective, a parameter is like a variable to be declared.
+
+An argument is a value that is sent to a function when it is called.
+
+## Lists in functions:
+`def function (*kid):
+    print("The child in the middle is " + kid[1] + ".")
+function("Anna", "Karen", "John")`
+pulls up `The child in the middle is Karen.`
+
+## For Loops in Functions
+`def function(fruit):
+    for a in fruit:
+        print()
+list = ["apple", "banana", "cherry"]
+function(list)`
+pulls up: `apple
+banana
+cherry`
+## Return statements in Functions
+`def myFunction(a):
+    return 5 * a
+print(myFunction(3))
+print(myFunction(5))
+print(myFunction(9))
+
+15
+25
+45`
+
+## Pass statements and functions
+`def myFunction(a):
+    pass`
+Nothing happens
+
+##
