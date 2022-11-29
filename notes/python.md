@@ -294,4 +294,7 @@ print(myFunction(9))
     pass`
 Nothing happens
 
-##
+# Libraries and other resources
+After installing a library to your computer, run `!pip install [name of file]`
+
+
