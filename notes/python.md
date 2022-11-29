@@ -70,7 +70,7 @@ Snake Case: each word seperated by an underscore
 my_variable_name
 
 # Keywords
-<img src="https://github.com/peterjurich/technicalwriting/blob/150d55f8ae2a968b948c4c63202039970a5d2a68/notes/Screenshot%202022-11-22%20at%2010.18.05%20AM.png" alt="A table of Python keywords" title="A table of Python keywords">
+<img src="https://github.com/peterjurich/technicalwriting/blob/150d55f8ae2a968b948c4c63202039970a5d2a68/notes/Screenshot%202022-11-22%20at%2010.18.05%20AM.png" alt="A table of Python keywords" title="A table of Python keywords" width="400">
 
 # Data types
 Look up types by
@@ -198,14 +198,14 @@ for x in color:
         
 # Data structures (arrays)
 <img
-src="https://github.com/peterjurich/technicalwriting/blob/64eb3af0f1a18113046d37c882b219f0a38678df/notes/Screenshot%202022-11-23%20at%201.14.50%20PM.png" alt="Data structures and their attributes" title="Data structures and their attributes">
+src="https://github.com/peterjurich/technicalwriting/blob/64eb3af0f1a18113046d37c882b219f0a38678df/notes/Screenshot%202022-11-23%20at%201.14.50%20PM.png" alt="Data structures and their attributes" title="Data structures and their attributes" width="400">
 
 ## List
 Is mutable: can add and delete items from list
 To call specific spot in list, use something like `list[1]`
 ### List methods
 <img
-src="https://github.com/peterjurich/technicalwriting/blob/02040e7af037708c38662b718f92b4d9eaa819b3/notes/Screenshot%202022-11-23%20at%201.23.44%20PM.png" alt="List methods" title="List methods">
+src="https://github.com/peterjurich/technicalwriting/blob/02040e7af037708c38662b718f92b4d9eaa819b3/notes/Screenshot%202022-11-23%20at%201.23.44%20PM.png" alt="List methods" title="List methods" width="400">
 
 ## Tuple
 Immutable: cannot add or delete items
@@ -213,7 +213,7 @@ Can change a list to a tuple by changing brackets [] to parentheses ()
 However, tuples are immutable, so cannot be appended, for example.
 ### Tuple methods
 <img
-src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Tuple%20methods.png" alt="Tuple methods" title="Tuple methods">
+src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Tuple%20methods.png" alt="Tuple methods" title="Tuple methods" width="400">
 
 ## Set
 Immutable and unordered, so they can appear in a different order everytime they are run
@@ -221,7 +221,7 @@ does not print duplicates, so `set2 = {"apple", "banana", "grapes", "grapes"}` w
 Can still use `set.add()`, `set.pop()`, and `set.clear()`
 ### Set methods
 <img
-src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Set%20methods.png" alt="Set methods" title="Set methods">
+src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Set%20methods.png" alt="Set methods" title="Set methods" width="400">
 
 ## Dictionary
 Unordered, changeable, indexed
@@ -237,7 +237,7 @@ print(len(dict))
 print(type(dict))`
 ### Dictionary methods
 <img
-src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Dictionary%20methods.png" alt="Dictionary" title="Dictionary methods">
+src="https://github.com/peterjurich/technicalwriting/blob/d02a198164aac581bcb2d3e69e991243c21db8ca/notes/Dictionary%20methods.png" alt="Dictionary" title="Dictionary methods" width="400">
 Keys method is unique to dictionaries, will return all values currently assigned to this item.
 `x = dict.keys()
 print(x)`
@@ -295,6 +295,9 @@ print(myFunction(9))
 Nothing happens
 
 # Libraries and other resources
+<img src="https://github.com/peterjurich/technicalwriting/blob/main/notes/python-libraries.png" alt="A table of Python libraries" title="A table of Python libraries" width="200">
+
+
 After installing a library to your computer, run `!pip install [name of file]`
 
 
