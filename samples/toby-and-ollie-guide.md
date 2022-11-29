@@ -1,8 +1,6 @@
 # Toby & Ollie: A Technical Guide
 
-![two dogs](https://github.com/peterjurich/technicalwriting/blob/main/media/tobyAndOllie.jpg | width=200)
-
-<img src="[ollie.png](media/ollie.png)" alt="two dogs" width="200"/>
+<img src="https://github.com/peterjurich/technicalwriting/blob/main/media/tobyAndOllie.jpg" alt="two dogs" width="300">
 
 ## Introduction
 
