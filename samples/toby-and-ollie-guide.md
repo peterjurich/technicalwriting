@@ -37,7 +37,7 @@ You’ll find their leash hanging on the coat rack next to the front door.
 
 This video explains how to clip them in, as well as some general tips for success:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G5z9p-DDJ2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/G5z9p-DDJ2A" target="_blank"><img src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/going-for-walks.png" alt="tips on going for walks" align="center" width="600"></a>
 
 There are black poop bags in the white canvass bag by the front door. But if you’re all out, there’s a bag station at the end of the block on the other side of the parking lot.
 
@@ -56,6 +56,8 @@ Our only requirements is that, before you leave, please:
 
 Need a video reference? Here’s one for you!
 
+<a href="https://www.youtube.com/watch?v=K7I5u-IZwD8" target="_blank"><img src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/repo%20mgmt%20pic.png" alt="repo presentation" align="center" width="600"></a>
+
 ## Dinner
 
 The dogs eat once a day - usually around 4:00 p.m. If you open the door to the basement (the one between the kitchen and the living room) and look down, you’ll see two clear circular containers full of dog food. One of  them has a measuring cup in it.
@@ -64,7 +66,9 @@ To feed the dogs:
 1. Fill Toby’s green ceramic bowl with one full cup of food.
 2. Fill Ollie’s silver aluminum bowl with ~¾ cup.
 
-If you need an additional reference, click here for a video.
+If you need an additional reference, check out this video:
+
+<a href="https://www.youtube.com/watch?v=K7I5u-IZwD8" target="_blank"><img src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/repo%20mgmt%20pic.png" alt="repo presentation" align="center" width="600"></a>
 
 ### BONUS:
 On the stairs, you’ll also find a smaller round container labeled Coprophagia. If you think of it, hide half a pill in each of their meals. This will prevent Ollie from eating dog poop in the backyard.
@@ -76,16 +80,17 @@ How does he do that? Well, he’ll get up from his bed, walk to the bottom of th
 
 If this does happen, simply go into the kitchen with him, open the dog door and let him out. Then wait for him to come back in, close the dog door, and head back upstairs.
 
-Otherwise, their bedtime routine is pretty easy. Here is a video that explains the whole thing.
+Otherwise, their bedtime routine is pretty easy. Here is a video that explains the whole thing:
+
+<a href="https://www.youtube.com/watch?v=K7I5u-IZwD8" target="_blank"><img src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/repo%20mgmt%20pic.png" alt="repo presentation" align="center" width="600"></a>
 
 ## Health & Safety
 Toby and Ollie’s veterinarian is Healthy Pet Vet Clinic at 2801 E Washington Ave. It is literally right around the corner. Their phone number is (608) 294-9494.
 
 We’ve never had to take these dogs to an emergency vet clinic, but in case there’s an emergency in the middle of the night, the closest is VCA Veterinary Emergency Services at 4902 E Broadway. Their phone number is (608) 222-2455.
 
-Ollie sometimes makes a sound like he is struggling for air. He does this when he is over excited. It is incredibly jarring the first time you hear it, so I recommend watching this video of it first so you’re not alarmed if he does it around you.
+Ollie sometimes makes a sound like he is struggling for air. He does this when he is over excited. It is incredibly jarring the first time you hear it. His vet is unconcerned by this and says it is only an emergency if you see his skin turning blue (which you can see by parting the hair around his face. If he starts doing it and it seems to be sustained, lasting for longer than a few minutes, we always do three things:
 
-His vet is unconcerned by this and says it is only an emergency if you see his skin turning blue (which you can see by parting the hair around his face. If he starts doing it and it seems to be sustained, lasting for longer than a few minutes, we always do three things:
 1. Take off his collar
 2. Give him access to ample water
 3. Make sure he has space to relax, whether that is in his crate or on the couch, with plenty of pets on the head
