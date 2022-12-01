@@ -82,7 +82,7 @@ If this does happen, simply go into the kitchen with him, open the dog door and 
 
 Otherwise, their bedtime routine is pretty easy. Here is a video that explains the whole thing:
 
-<a href="https://www.youtube.com/watch?v=K7I5u-IZwD8" target="_blank"><img src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/repo%20mgmt%20pic.png" alt="repo presentation" align="center" width="600"></a>
+<a href="https://youtu.be/-MvDzeB52XU" target="_blank"><img src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/bedtime-routine.png" alt="tips for putting the dogs to bed" align="center" width="600"></a>
 
 ## Health & Safety
 Toby and Ollie’s veterinarian is Healthy Pet Vet Clinic at 2801 E Washington Ave. It is literally right around the corner. Their phone number is (608) 294-9494.
