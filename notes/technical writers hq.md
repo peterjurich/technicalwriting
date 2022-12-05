@@ -563,3 +563,11 @@ Address how to properly use illustrations
 How to write for accessibility
 Words to avoid
 Style sheet: A list of brand rules that differntiate you from others
+[50 style guides every startup should see before the launch](https://www.canva.com/learn/50-meticulous-style-guides-every-startup-see-launching/)
+
+# SEO
+Practice of increasing quality and quantity of traffic to website
+To test speed of blog, article, etc., check [Pagespeed Insights](https://pagespeed.web.dev/) or [gtmetrix](https://gtmetrix.com/).
+* Find [keywords](https://ahrefs.com/) to rank for, but don't let it overtake the UX, but services not free.
+* Understand context of user searching
+*Use [correlation alysis](https://www.clearscope.io/) to rank: gives suggestions for what to do if you want to rank for something. It analyses other sites that rank for that thing, but costs $350/month
