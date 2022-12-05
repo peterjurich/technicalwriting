@@ -507,6 +507,7 @@ Tips:
 * Reearrange 5 parts for emphasis
 * Omit actor is evident
 * Use two sentences if necessary
+* If too many points don't support your purpose statement, consider that your purpose statement may be flawed.
 
 GATHERING INFORMATION
 Use purpose statement to limit the scope of your learning
@@ -516,4 +517,49 @@ SENTENCE STRUCTURE & DESIGN
 The point is not to make a point within a point within... Keep it at a high level - 2 at the most.
 Outline body only.
 Don't write how you speak.
-Keep 
+
+# DOCUMENT STRUCTURE & DESIGN
+## First page
+Title
+Name of author
+Date
+Team
+References (task links, relevant docs, etc.)
+Version of doc
+Copyright
+Corp. logo
+
+## Second page
+Pupose: What is RFP supposed to do?
+Describe context of the problem
+Glossary if necessary
+Time estimates
+Describe goals
+
+## Other considerations
+Non-goals: things product does not do, helps you zoom in on what's crucial
+Questions: if not all details available, helps to figure out what is needed
+Monitoring: how will success be measured
+Deployment: steps taken to deploy with detailed actions
+Cost: how will workload be affected, security concerns?
+Accessibility
+
+# Document layout
+Helps docs stand out
+Take advantage of white space
+Self-explanatory headings
+Avoid stacked headings (headings with intervening text)
+Avoid widowed headings (headings at bottom of page)
+
+# Style Guides
+Answers common content questions to free up time for writers to write
+Technical editing standards
+Should capture decisions by team
+Not carved in stone.
+Split by comms channel
+Address all relevant personas
+Address different types of verbiage
+Address how to properly use illustrations
+How to write for accessibility
+Words to avoid
+Style sheet: A list of brand rules that differntiate you from others
