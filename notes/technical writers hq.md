@@ -594,7 +594,7 @@ Less precise, but better able to show trends. Provide context first, don't just 
    
 # Post writing organization
 All work after draft. Check for correctness. Create peer-review process if none exists.
-   
+   https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/post-writing-organization.png
 # Tables
 
    
