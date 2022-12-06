@@ -571,3 +571,4 @@ To test speed of blog, article, etc., check [Pagespeed Insights](https://pagespe
 * Find [keywords](https://ahrefs.com/) to rank for, but don't let it overtake the UX, but services not free.
 * Understand context of user searching
 *Use [correlation alysis](https://www.clearscope.io/) to rank: gives suggestions for what to do if you want to rank for something. It analyses other sites that rank for that thing, but costs $350/month
+
