@@ -594,11 +594,22 @@ Less precise, but better able to show trends. Provide context first, don't just 
    
 # Post writing organization
 All work after draft. Check for correctness. Create peer-review process if none exists.
-   https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/post-writing-organization.png
-# Tables
+<img
+src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/post-writing-organization.png" alt="Post writing flow chart" title="Post writing flow chart" width="400">
 
-   
-   
+If after doing all of this, you can recognize the author of a knowledge base, then you probably need to rework the content.
+
+## Revising content
+1. Does the doc reveal its topic in first two sentences?
+2. For each point, ask "So what?"
+3. Is each point supported with details?
+
+### 5 techniques for coherence
+1. Repeat key words
+2. Ensure paragraphs begin with point
+3. Use transition words
+4. Use vertical lists
+5. Use graphics to teach
    
 # Resources
 [Free online technical writing textbook](https://mcmassociates.io/textbook/)
