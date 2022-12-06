@@ -573,3 +573,32 @@ To test speed of blog, article, etc., check [Pagespeed Insights](https://pagespe
 *Use [correlation alysis](https://www.clearscope.io/) to rank: gives suggestions for what to do if you want to rank for something. It analyses other sites that rank for that thing, but costs $350/month
 
 # Markdown and HTML tools
+[Here is a Markdown tutorial](https://www.youtube.com/watch?v=HUBNt18RFbo&t=397s)
+                                                                 
+[Dillinger](https://dillinger.io/) is a free online Markdown editor.
+                                                                 
+# Accessibility
+Questions to ask:
+* Would this language make sense to someone who doesn’t work here?
+* Could someone quickly scan this document and understand the material?
+* If someone can’t see the colors, images or video, is the message still clear?
+* Is the markup clean and structured?
+* Mobile devices with accessibility features are increasingly becoming core communication tools, does this work well on them?
+                                                                 
+# Charts & graphs
+Less precise, but better able to show trends. Provide context first, don't just throw it out there.
+   
+[Google Sheets Charts & Graphs tutorial](https://www.youtube.com/watch?v=IFX9e9SqGlw)
+   
+[Excel Charts & Graphs tutorial](https://www.youtube.com/watch?v=DAU0qqh_I-A)
+   
+# Post writing organization
+All work after draft. Check for correctness. Create peer-review process if none exists.
+   
+# Tables
+
+   
+   
+   
+# Resources
+[Free online technical writing textbook](https://mcmassociates.io/textbook/)
