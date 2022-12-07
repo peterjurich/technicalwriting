@@ -1,6 +1,16 @@
 # Resources
 [Free online technical writing textbook](https://mcmassociates.io/textbook/)
-**Tools to know: SnagIt, Tango, ClickUp, Loom, Screencastify**
+## For Diagrams and flowcharts
+* Visio
+* Miro
+* LucidChart
+
+## For screenshots
+* Nimbus Screenshot
+* SnagIt
+
+## Others
+Tango, ClickUp, Loom, Screencastify**
 
 
 Main bottleneck is communication. Documentation outlines for good TW's include:
@@ -616,6 +626,34 @@ The main point should be obvious in the first sentence. All subsequent sentences
 
 3. Use transition words
 Put transition words at the beginning of a sentence to clue readers into how it will relate to previous thought. If you can't find a good transition word, it might mean your paragraph is poorly structured.
-
+src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/transition-words.png" alt="Transitional words" title="Transitional words" width="400">
+   
 4. Use vertical lists
+People have a great memory for 5-7 items
+If a single list requires four full lines of text, a paragraph may be a better option.
 5. Use graphics to teach
+   
+# Writing procedural guidelines
+Write in imperative mood where you are giving someone a directive. One action per step, but make sure it is large enough to be meaningful. Reader must never wonder whether a step is left out.
+   
+# Formatting tips
+   * Highlight headings, keywords, and important sentences.
+   * Use different fonts, white space, or indentation, boxes, etc. to group related items. Do not overdo it with fonts.
+   * Help readers refer back to doc with numbers, footers, headers, etc.
+
+## Graphics
+* Intersperse text and graphics on the same page.
+* Put them as close to related text as possible.
+   * Cite all images used
+   * Avoid decorations
+   * **Don't be afraid to edit screenshots to make them more legible or approachable.**
+* When illustrating a subsystem, show it's relationship to the larger system, too.
+   
+   # Illustrations
+   * Providing graphics - whether good or bad - makes people like doc more (Sung & Mayer, 2012). However, only instructive graphics helped them learn.
+   
+   ## Types of graphics
+   * **Always use .jpeg over a .png**
+* Don't use screenshots excessively bc changes to UI will create more work for you.
+* May sometimes help to write captions before making the graphic.
+   
