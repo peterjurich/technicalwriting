@@ -1,4 +1,7 @@
+# Resources
+[Free online technical writing textbook](https://mcmassociates.io/textbook/)
 **Tools to know: SnagIt, Tango, ClickUp, Loom, Screencastify**
+
 
 Main bottleneck is communication. Documentation outlines for good TW's include:
 * Vision
@@ -606,10 +609,13 @@ If after doing all of this, you can recognize the author of a knowledge base, th
 
 ### 5 techniques for coherence
 1. Repeat key words
+   It's important to repeat the same word for each usage. For example, if you call a company and organization in the second reference to it, use 'organization' moving forward.
+                                                                 
 2. Ensure paragraphs begin with point
+The main point should be obvious in the first sentence. All subsequent sentences should support it.
+
 3. Use transition words
+Put transition words at the beginning of a sentence to clue readers into how it will relate to previous thought. If you can't find a good transition word, it might mean your paragraph is poorly structured.
+
 4. Use vertical lists
 5. Use graphics to teach
-   
-# Resources
-[Free online technical writing textbook](https://mcmassociates.io/textbook/)
