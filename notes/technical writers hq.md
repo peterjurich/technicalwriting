@@ -149,7 +149,7 @@ OUTLINE
 * Results: impressive, measurable insight with call to action
 DO NOT SKIP DESIGN
 
-API WRITING
+# API WRITING
 API, or Application Programming Interface, allows devs to transmit data btw software products easily. With API, you can fetch features of a product and integrate them into your application.
 Ex. Using chat feature
 API docs are key to dev experience and docu is imperative bc devs are unlikely to keep using a product w/poor docu
@@ -157,6 +157,18 @@ Why API? AI docu is important for dev experience. Happy devs = popular API, whic
 Pivotal sections in any API doc: Overview (detail onboarding and API attributes, a quick win will grab attention); Authentication (how to get access credentials, this is a big hurdle); Resources (users will interact more with this than any other section); Error messages (Include all potential errors and how to solve them); and terms of use (legal agreement for how users will ideally use your product).
 IMPORTANT: Be consistent with universally accepted naming conventions and terminologies.
 Devs like when they can test what they read in the docs and see how it works. INCLUDE INTERACTIVE SAMPLE CODES IN POPULAR PROGRAMMING LANGUAGES
+
+## Documenting API
+Don't docu a third party apps if you don't have to.
+If you do have to, limit coverage to required settings in a list or table.
+Tips:
+* Don't use phrase parameters in the form of a task
+* Don't use screenshots
+* Rely on third party vendor to handle details, tasks, references. Your docu must suppliment theirs
+It's OK to simply reference the third party API docu if: it is accurate and available; there are no settings that users must configure in a specific way in order to work with software. If you do this, provide a search bar that helps users find what they need
+Collaborating with colleagues at third party if you have a close relationship with them.
+Refer user to third party if you cannot collaborate with third party yourself.
+You can also provide a detailed explanation outside of docu
 
 PRODUCT ROADMAPPING -b a guide for steps you need to take to reach a co’s product short and long term goals with different confidence levels
 TWs are rarely asked to make one
@@ -656,4 +668,22 @@ Write in imperative mood where you are giving someone a directive. One action pe
    * **Always use .jpeg over a .png**
 * Don't use screenshots excessively bc changes to UI will create more work for you.
 * May sometimes help to write captions before making the graphic.
-   
+
+# Establishing Editing Flow
+## When you're the only editor
+* Crowdsource a checklist
+* Apply software tools
+* Take multiple passes through text
+* Read it out loud
+* Sleep on it
+* Observe someone while they read your content
+   * Note exact points of needed improvement
+   * Can see reactions with expectations vs docu
+* Experiment
+* Listen to your audience
+* Pretend everything you write will go in your portfolio
+* Agile equates less time to edit
+   * Send small amounts at a time
+   * Ask for a specific type of edit
+   * Self-edit as a last result: [Self-editing checklist](https://docs.google.com/spreadsheets/d/10NZH4NsOOoYlV3Sw_4cabY1Z7X2OL_i8E0Ux24hpMW4/edit#gid=0)
+* Most of the time, you can go back after launch
