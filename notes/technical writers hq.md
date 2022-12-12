@@ -687,3 +687,30 @@ Write in imperative mood where you are giving someone a directive. One action pe
    * Ask for a specific type of edit
    * Self-edit as a last result: [Self-editing checklist](https://docs.google.com/spreadsheets/d/10NZH4NsOOoYlV3Sw_4cabY1Z7X2OL_i8E0Ux24hpMW4/edit#gid=0)
 * Most of the time, you can go back after launch
+   
+## Editing for clarity
+* Be concrete and specific
+   Identify things that can be detected by 5 senses
+   Be specific with time.
+   Avoid vague adjectives.
+   Abstract words give perception that author doesn't have all the facts
+   Avoid "Above" as an indicator of something previously mentioned
+
+* Use active verbs
+                                                           
+* Simplify tense: present or past when possible
+Mark "will" if in front of another verb. The word "will" can get you in trouble.
+Mark have, had, has in front of another verb.
+Mark "to be" verbsa followed by an -ing verb
+
+* Avoid would could, should
+Replace with a word that describes a specific condition
+**Lawsuits have been filed over these three words**
+
+* Eliminate ambiguous pronouns
+This, that, there and it should be asked "That/those/etc what?" If you can't answer it, then you have ambiguous pronouns
+
+You can use t
+This, that, there and it should be asked "That/those/etc what?" If you can't answer it, then you have ambiguous pronouns
+
+You can use the word "you" to avoid passive voice in technical documentation
