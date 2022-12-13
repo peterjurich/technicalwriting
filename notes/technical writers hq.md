@@ -725,8 +725,15 @@ Always put modifiers next to the word they are modifiers
 Misused modifiers can cause passive voice
 If you don't make actors in sentence known, reader can get confused.
 
-#Editing for economy
+# Editing for economy
 * Challenge vague verbs
 * Replace many verbs with one
 * Cut unnecessary prepositions like the words "of", "in order to", etc.
 * Cut who, which, and that when combined with "to be" verbs.
+* Replace long words that are not proper nouns with shorter words.
+    *Keep long words limited to 15 per 100.
+    
+# Avoid negative writing
+Avoid phrases that use no or not, esp in quantity
+    * ex. No fewer than > at least; no more than > At most
+Delete negative adverbs
