@@ -4,13 +4,27 @@
 * Visio
 * Miro
 * LucidChart
+* Canva
+* Draw.io
+
+## Prototyping tools
+* Figma
+* InVision
+* Balsamiq
 
 ## For screenshots
-* Nimbus Screenshot
+* Nimbus Screenshot (like SnagIt, but free)
 * SnagIt
 
 ## Others
-Tango, ClickUp, Loom, Screencastify**
+Tango, Loom, Screencastify
+
+ClickUp: Project mgmt, documentation tool, chrome extension available. Can link all docs together. Free to start.
+
+Tango: it's free.
+Document360
+MadCap Flaire
+Grammarly to remove passive voice
 
 
 Main bottleneck is communication. Documentation outlines for good TW's include:
@@ -737,3 +751,46 @@ If you don't make actors in sentence known, reader can get confused.
 Avoid phrases that use no or not, esp in quantity
     * ex. No fewer than > at least; no more than > At most
 Delete negative adverbs
+
+#Technical Verification
+Confirming that technical documentation is accurate
+Involves review by SMEs. Reviews are non-negotiable
+Integrity of review process is ultimately the TW's responsibility - even though reviewers have little time to review your doc.
+Must be an ongoing process
+## Why necessary?
+We all have blind spots, make assumptions about audience, SMEs have blindspots
+Verifications are very important in non-GUI features such as command line interfaces, APIs, etc, or other things that lack UI
+More complexity = more need for QA
+## Who performs it?
+* SMEs
+* engineers who worked on product
+* Product managers
+* Customer-facing personel
+* QA team
+## Types of reviews
+* Spot review: confirm your understanding of feature/issue w/SME, can be done over email
+* Draft reviews
+* QA reviews
+* Review mtgs: labor intensive and happen when critique is harsh
+## When to perform?
+Don't wait for review process
+Send drafts pften
+## ****How to get good review?
+Build relationship btw docs and eng team
+Estab. relationships btw you and engineering team
+Show interest in development mtgs. Ask intelligent questions and don't be intimidated**
+Assign specif roles, communicate priorities and goals, divide up into single small tasks if possible. You'll more likely get deeper reviews
+Work within their workflow.
+Set a firm deadline, send reminders beforee deadlines and after if necessary. Keep pressure on. Public shaming might be needed.
+Review the review. How did it go? How can it improve?
+
+ # QA in Tech Review
+ QA can explain odd feature behavior
+ Can help you understand better
+ Can loan a test environment
+ Can review your docu
+ Can test procedures, but simple procedures are probably fine for you to test yourself. Only involve QA if procedures are difficult to test (migration, fixing unstable systems)
+
+
+
+
