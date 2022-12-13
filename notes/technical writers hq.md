@@ -714,3 +714,19 @@ You can use t
 This, that, there and it should be asked "That/those/etc what?" If you can't answer it, then you have ambiguous pronouns
 
 You can use the word "you" to avoid passive voice in technical documentation
+
+# Use Standard English
+
+* Avoid Latin and French like "in lieu of," "en route", etc.
+* Avoid slashes bc they mean "divided by" in code
+
+# Correct use of modifiers
+Always put modifiers next to the word they are modifiers
+Misused modifiers can cause passive voice
+If you don't make actors in sentence known, reader can get confused.
+
+#Editing for economy
+* Challenge vague verbs
+* Replace many verbs with one
+* Cut unnecessary prepositions like the words "of", "in order to", etc.
+* Cut who, which, and that when combined with "to be" verbs.
