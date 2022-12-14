@@ -792,5 +792,42 @@ Review the review. How did it go? How can it improve?
  Can test procedures, but simple procedures are probably fine for you to test yourself. Only involve QA if procedures are difficult to test (migration, fixing unstable systems)
 
 
+# Resume
 
+2-page resumes get tossed???
+Understand the product (company) and do user research
+Potential talking points on resume: show how many custos helped, number of users who read docs, length of docs produced, docu examples, list business goals you've achieved, highlight the type of content produced and in what capacity, what types of users you wrote for, emphasize specialization
 
+Keywords: simplifying technical concepts, writing technical documentation, style guide, technical writer, technical verification
+
+Q: Do you have experience in the roll you're applying for? Dedicate more space to that.
+
+Include your ability to properly scope projects and meet/exceed timeline expectations, how I conducted research to get qual/quant data
+**Skills keywords should be listed under the job you used them on in the right context
+Don't just list degrees, but projects you worked on
+
+# Freelance opps
+Find clients on LinkedIn, referrals, or Upwork
+
+# Portfolio tips
+Don't show everything you've ever worked on, just a range of skills.
+Show parts of docu, not whole thing
+Show before/after samples
+## Types of work to include:
+* Accessibility planning and improvements
+* Content auditing and governance
+* Content modeling
+* Content testing
+* Docu management
+* Technical verification
+* Empty states
+* Error msgs
+* Forms
+* Inclusive language and experiences
+* IA, taxonomy
+* Setting learning objectives
+* Localization & internationalization
+* Knowledge base construction
+* Style guides & terminology
+* Voice & tone guidelines
+**Share rationale for decisions in work samples**
