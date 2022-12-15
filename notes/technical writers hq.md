@@ -809,10 +809,31 @@ Don't just list degrees, but projects you worked on
 # Freelance opps
 Find clients on LinkedIn, referrals, or Upwork
 
-# Portfolio tips
-Don't show everything you've ever worked on, just a range of skills.
-Show parts of docu, not whole thing
-Show before/after samples
+# Building a portfolio
+2-3 projects is fine
+Focus on clarity over design
+Show how you personally contributed
+Focus on product experience
+Talk about process and outcome
+
+## Questions to ask
+When listing projects, include a paragraph that includes the following:
+* What was the problem you solved?
+* How did you know there was a problem? Was there research/data?
+* The goal. What did success look like?
+* What was your role and your process like?
+* How did you drive the team/project forward?
+* How did you solve the problem? How do you know?
+* What did you learn?
+
+## Portfolio tips
+* Don't show everything you've ever worked on, just a range of skills.
+* Show parts of docu, not whole thing
+* Show before/after samples
+* Using one Google Docs is sufficient
+* Companies want to understand what you think makes your sample great.
+* **Share rationale for decisions in work samples**
+
 ## Types of work to include:
 * Accessibility planning and improvements
 * Content auditing and governance
@@ -830,4 +851,11 @@ Show before/after samples
 * Knowledge base construction
 * Style guides & terminology
 * Voice & tone guidelines
-**Share rationale for decisions in work samples**
+* BONUS: Improve something about a well known website!
+
+# LinkedIn bio
+Focus on past achievements and future goals
+Include keywords like GitHub, XML, other skills
+Include what employers can expect, a call to action
+
+# Interview questions
