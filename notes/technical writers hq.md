@@ -80,7 +80,8 @@ KB can be both ext/internal
 Discoverability is important: sifting most popular articles to home page. Use Google Analytics to measure impact, not tickets
 
 FAQs
-Good way to organize answers under a collapsible block of text. Group questions under headings. Give readers opportunity to weigh in
+Good way to organize answers under a collapsible block of text. Group questions under 
+s. Give readers opportunity to weigh in
 Found on pricing pages
 
 RELEASE NOTES
@@ -587,7 +588,7 @@ Accessibility
 Helps docs stand out
 Take advantage of white space
 Self-explanatory headings
-Avoid stacked headings (headings with intervening text)
+Avoid stacked headings (two consecutive headings without intervening text)
 Avoid widowed headings (headings at bottom of page)
 
 # Style Guides
