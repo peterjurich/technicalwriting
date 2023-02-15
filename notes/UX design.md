@@ -32,3 +32,28 @@ visualize
 
 # Creating User Experiences
 
+## User persona
+rep profiles of most common type of user
+Individual users behave differently
+Assess realistically - the main ppl using your product
+Why are they using it?
+What are their limitations?
+
+### How to create them?
+Docs in course notes will help!
+Demographic: cannot control
+Psychographic: can control; interests
+Name, job, location, age, marital status, gender, needs, character traits, habits, goals
+
+## Empathy maps
+a tool for ux designers consider how audience uses app based on circumstances
+What are they expecting?
+Which competitors will users use?
+Think & Feel?
+Hear?
+See?
+Say & Do?
+Pains?
+Gains?
+
+# Determining Goals for your Product
