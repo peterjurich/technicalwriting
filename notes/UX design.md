@@ -57,3 +57,28 @@ Pains?
 Gains?
 
 # Determining Goals for your Product
+up to ux designer to help meet needs
+must talk to anticipated potential users early and often
+why wouldthey buy or use product?
+Every choice should support helping user reach goals
+Can have multiple goals: give drives jobs, get ppl home safely, want app to be popular
+
+## Combining your goals w/user goals
+What do they have in common?
+Should be win/win for company/user
+Venn diagrams help
+Can make qualitative goals quantitative by making goals based on fact, data, and measurable outcomes
+Think money, engagement, downloads, etc. KPIs
+Look at Google Analytics to see how users interact w/you
+"Do table reservations improve when you update site?"
+
+# Planning the user journey
+## User flow
+the route we want users to take from one part of the product to another
+should be as efficient as possible "in as few clicks as possible"
+The easier it is to book, the less likely to use a competitor
+There are specific steps they should taje to reach goals, so steps should be logical
+Not every user flow is the same.
+We need to guide users w/butoons, feedback, notifications, etc.
+
+### Steps
