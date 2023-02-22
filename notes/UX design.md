@@ -72,8 +72,8 @@ Think money, engagement, downloads, etc. KPIs
 Look at Google Analytics to see how users interact w/you
 "Do table reservations improve when you update site?"
 
-# Planning the user journey
-## User flow
+## Planning the user journey
+### User flow
 the route we want users to take from one part of the product to another
 should be as efficient as possible "in as few clicks as possible"
 The easier it is to book, the less likely to use a competitor
@@ -82,3 +82,34 @@ Not every user flow is the same.
 We need to guide users w/butoons, feedback, notifications, etc.
 
 ### Steps
+Make stack of cards w/each page he needs to use. Then decide whether it works for app.
+Need destination, pick up location, survey, is there premium option, number of seats, onboarding,etc.
+Bonus chalenge: steps needed to create an account
+Cord sorting exercise: arrange until make the most sense.
+For businessman:
+1. Onboarding
+2. Pickup location
+3. Destination
+4. Book (now or later)
+5. Schedule (if later)
+6. Arrival
+7. Vehicle
+8. Estimate
+9. Price
+10. Payment
+11. Time
+12. Proximity
+13. Charge
+14. Rate
+15. Tip
+
+## Contrasting user goals
+Sarah has additional passengers, so her options are limited.
+She also doesn't need to schedule rides in advance
+Make a new card game, but adding new ones for each extra step
+My third persona, will really just want the last 5 steps after doing the whole thing once
+
+# Making a user flow
+A diagram w/arrows to show where users go
+Showingh flows separate lets you focus, coming helps you compare
+Style doesn't matter as much as content
