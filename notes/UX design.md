@@ -113,3 +113,18 @@ My third persona, will really just want the last 5 steps after doing the whole t
 A diagram w/arrows to show where users go
 Showingh flows separate lets you focus, coming helps you compare
 Style doesn't matter as much as content
+
+# UX Design Patterns
+
+## What are design patterns?
+Visual strategies for solving common usability problems
+Keeps cognitive load (the mental effort involved in decision making) to a minimum
+Making your design too new and users won't understand
+Users spend most of their time on other sites, so yours should work similarly
+(Stop signs in other countries, for example)
+Not intended to create identical experiences
+Provide common language of familiar terms
+
+## Psychology of design patterns
+
+
