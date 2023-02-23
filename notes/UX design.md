@@ -126,5 +126,88 @@ Not intended to create identical experiences
 Provide common language of familiar terms
 
 ## Psychology of design patterns
+Users form first impressions in 50 ms: what it's about, how to navigate, whether to trust
+Why?
+### System 1 thinking
+(automatic, instinctive, emotional) to determine how I search, browse, etc.
+If this is positive, quickly scan for interest.
+Also known as heuristics: mental shortcuts in problem solving that prefer quick satisfactory solutions over slow optimal ones
+Pattern recognition is a popular heuristic
+### System 2 thinking (deliberate, logical)
+Think about experiences that kept this thinking to a minimum
 
+## Implementing design patterns
+Four pre-steps
+### 1. Identify problem
+ans 2 questions: what does user what to do?
+What's preventing them from doing it?
+Analytics can provide info on where users bail out
+
+### 2. Define context
+Where does problem occur? Can also determine via analytics research
+
+### 3. Find common solution
+How have other websites/apps solve this problem?
+uxlibrary.org is a helpful resource
+
+### 4. Check out examples 
+Where and how is pattern being impliment?
+uxarchive.com
+
+## Beyond design patterns
+What happens when can't find existing pattern?
+Sketch out designs!
+ie. "swipe left or swipe right"? by Tinder
+"Innovate when you know you have a better idea, but take advantage of conventions when you don't"
+--Steve Krug, "Don't Make Me Think"
+
+# Navigation Patterns
+Common set of features for navigating:
+1. a header in upper l or top center as home button
+2. navigation tabs
+3. A way to log in
+
+One thing all 3 have in common: no effort to indicate level of affordance
+Affordance: properties that suggest what can be done with an object
+ex. hyperlink text
+Primary clue for users is placement on page
+
+## Apart from text placement, what rules dictate primary navigation bar?
+
+### Reduce number of options
+The time to make a decision increases w/number of options
+
+### Keep important links first to last
+Users remember those two most
+
+### Consistent labeling
+Should be the same no matter what page I'm on
+
+### Highlight current link
+So users know where they are
+
+## In mobile
+Tab bar at bottom of the screen
+But vary from site to site
+
+# Dropdown and subnavigation
+What to do with subnav?
+Common: reserve subnav until user clicks a main category
+Mega menu: provide group navigation menus all at once (ex. shopping sites)
+
+## Burger icon
+Drawbacks:
+reduces discoverability
+adds interaction costs (user must tap or click)
+
+Pros:
+Saves screen real estate
+but easier to achieve on sites w/not a massive amount of options
+
+## Breadcrumbs
+a list of text links representing current page and hierarchical ancestors
+ex. Best Buy > Audio > Headphones > Airpods.
+harder to undersatand on mobile
+
+In web terms, navigation is about wayfinding: keeping users aware of urrent location in overall hierarchy of website
 
