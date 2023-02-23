@@ -211,3 +211,4 @@ harder to undersatand on mobile
 
 In web terms, navigation is about wayfinding: keeping users aware of urrent location in overall hierarchy of website
 
+## Pagination and Filtering
