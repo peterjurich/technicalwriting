@@ -212,3 +212,13 @@ harder to undersatand on mobile
 In web terms, navigation is about wayfinding: keeping users aware of urrent location in overall hierarchy of website
 
 ## Pagination and Filtering
+Making large sets of results approachable, so filters like the ones in Etsy are helpful for making users feel less overwhelmed. However, Etsy does not allow you to filter for wigs between cats and dogs, making for a weaker experience. Allowing more specific filters builds user confidence.
+
+Pagination works best while coupled with pagination options (like number of results per page.)
+Sites like Pinteresg give you endless scrolling to instill sense of discovery. This can be addicting.
+Endless scrolling does not make for information-heavy text where users need to remember information.
+
+## Footers
+Users make first impressions in first 50 ms, so designers focus efforts above fold. Users keep unconscious mental notes. No footer feels less professional.
+Footers contain additional information that would be of interest to some people, but not most.
+Footers are a way to convince uncertain users of the benefits your site offers or direct users to hard-to-find content. Having no footers on a mobile app may make the app better for shopping, but harder for customer service.
