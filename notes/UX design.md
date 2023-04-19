@@ -240,3 +240,22 @@ Three ways to adjust this.
 2. Type?
 3. Law of Proximity: objects near each other tend to be grouped together
 Proximinity helps estab relationsahips with content
+
+## Scanning patterns
+studied since 30s, but took off in 90s
+F-pattern: users sweep top of page from left to right, then down left side
+Users use F-pattern primarily for badly formatted text to minimize effort
+Good design can prevent F-shaped scanning
+Evolved patterns: Slack's Z-pattern alternates image and text placement
+
+## Layer cake pattern
+invites more purposeful eye scanning by emphasizing heading and subheading. only occasionally emphasizes body copy
+### Applying layer cake
+Most common critique is "That's too much text."
+Font size should be 16px bare minimum for comfortable reading on web
+Space btw paragraphss ahould be at least twice size of text
+One idea per paragraph
+Grouping paragraphs w/subheadings lets users spend less effort deciding what to read
+Headings should be spaced closer to paragraphs they describe, not equally spaced (floating headings)
+Highlight a few key takeaways, but the more you use it, the less effective it is
+TLDR (or inverted pyramid): starting w/conclusion
