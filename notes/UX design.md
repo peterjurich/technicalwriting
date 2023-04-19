@@ -259,3 +259,18 @@ Grouping paragraphs w/subheadings lets users spend less effort deciding what to 
 Headings should be spaced closer to paragraphs they describe, not equally spaced (floating headings)
 Highlight a few key takeaways, but the more you use it, the less effective it is
 TLDR (or inverted pyramid): starting w/conclusion
+
+## Dark patterns
+interactions designed to trick users into doing something they don’t want to do.
+* Trick question: takes advantage of this tendency by presenting text that appears to mean one thing at a glance but means the opposite when read carefully.
+* Sneak into Basket: happens when an e-commerce site sneaks an additional product or service into your shopping cart.
+* Roach Motel: describes an online situation (such as subscribing to a mailing list) that’s easy to get into, but hard to escape from.
+* Privacy Zuckering: involves tricking people into publicly sharing more personal information than intended.
+* Price Comparison Prevention: retailers make it difficult to directly compare the cost of two different items.
+* Hidden Costs: unexpected charges reveal themselves at various points in the shopping process
+* Misdirection: occurs when websites purposely focus your attention on one place to distract your attention from another. A common example is when websites make an expensive product or service look more visually appealing than a free or reduced-cost option.
+* Bait and Switch: Users set out to accomplish one thing, but something opposite and undesirable happens instead.
+* Confirmshaming: uses guilt to convince users to opt into something.
+* Disguised ads: advertisements designed to look like web content or navigation.
+* Forced continuity: when a user supplies payment information for a free trial or service and the supplier hides the ‘subscription renews automatically’ info or makes it difficult to cancel the automatic renewal
+* Friend spam: A product asks for permission to access your address book, then sends spam messages to your contacts.
