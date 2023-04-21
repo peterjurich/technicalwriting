@@ -28,6 +28,15 @@ it's a piece of software that any time of day, any time of night, you can automa
 the science of extracting knowledge and insights from data.
 output of a data science project is often a slide deck, the PowerPoint presentation that summarizes conclusions for executives to take business actions or that summarizes conclusions for a product team to decide how to improve a website
 
+### Neural Network
+A neuron is the space between A (price) and B (demand)that calculates the relationship
+More complexity would include shipping cost, marketing, material all interacting and lead to a fourth neuron that calculates demand
+One of the great things about neural networks is you just need to give it A and B and it figures everything else out.
+
+#### Neural networks and face recognition
+Computers see a table of numbers each indicating brightness of the pixel for B&W pgoto, adds RGB values for color.
+First neurons detect edges, 2nd detect shapes, 3rd faces. Your job is to input lots of data. The network will figure it out.
+
 ### Neural network or deep learning?
 a very effective technique for learning A to B or input-output mappings.
 Today, the terms neural network and deep learning are used almost interchangeably, they mean essentially the same thing.
@@ -77,3 +86,5 @@ Analyze a market and wrote a 50-page report
 Write an empathetic response to a complex request
 Look at a picture and determine intention
 Diagnose pneumonia from 10 images of pneumonia and some explanatory text
+
+# Module 2: Building AI Projects
