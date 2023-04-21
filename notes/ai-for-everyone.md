@@ -57,3 +57,12 @@ AI companies:
 5. Develop internal and external comms
 
 ## What machine learning can and cannot do
+Media tends to overhype AI capabilities leading to unrealistic expectations
+# Can do
+Imperfect rule of thumb: anything you can do w/a second of thought, AI can do
+Route proper email requests to dept.
+Learning a "simple" concept
+Lots of data maakes above easier
+# Cannot do
+Analyze a market and wrote a 50-page report
+Write an empathetic response to a complex request
