@@ -58,11 +58,22 @@ AI companies:
 
 ## What machine learning can and cannot do
 Media tends to overhype AI capabilities leading to unrealistic expectations
-# Can do
+ML works well when:
+Learning a "simple" concept
+Lots of data available
+
+Works poorly when:
+Learning complex tasks from small amount of data
+perform on new types of data that's different than the data it has seen in your data set
+
+### Can do
 Imperfect rule of thumb: anything you can do w/a second of thought, AI can do
 Route proper email requests to dept.
-Learning a "simple" concept
-Lots of data maakes above easier
-# Cannot do
+Take a picture of what's in front of car and determine where other cars are.
+Diagnose pneumonia from 10,000 labelled image
+
+### Cannot do
 Analyze a market and wrote a 50-page report
 Write an empathetic response to a complex request
+Look at a picture and determine intention
+Diagnose pneumonia from 10 images of pneumonia and some explanatory text
