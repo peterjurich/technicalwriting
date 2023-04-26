@@ -88,3 +88,19 @@ Look at a picture and determine intention
 Diagnose pneumonia from 10 images of pneumonia and some explanatory text
 
 # Module 2: Building AI Projects
+## Workflow of a ML project
+Key steps of a a voice recognition project
+1. Collect data: Record lot of people saying "Hello"
+2. Train model: use ML algo to learn input A (audio clip) to output B (system recognizes)
+3. Deploy model: put model into small speaker and ship to small group of test users
+You also get more data in this step
+
+## Workflow of a data science project
+Output of these is an actionable way to do something differently
+Steps:
+1. Collect data: dataset that collects when users go to a webpage
+2. Analyze data: time of day matters. Interate many times to get good insights
+3. Suggest hypotheses/actions
+Deploy changes and reanalyze new data periodically
+
+## Every job function needs to learn how to use data
