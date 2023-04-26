@@ -104,3 +104,25 @@ Steps:
 Deploy changes and reanalyze new data periodically
 
 ## Every job function needs to learn how to use data
+ML can:
+* help salepeople prioritize targets for sales
+* automatically figure out if a product is defective
+* screen resumes
+* personalize ads
+* precision agriculture
+
+## How to choose an AI project
+
+Venn diagram of What AI Can Do and Valuable For Your Business
+Team of both AI experts and domain experts can help
+
+Framework for brainstorming an idea
+* Think about automating tasks rather than automating jobs
+* What are the main drivers of business value?
+* What are the main pain points of your business?
+
+Advice: You can make progress even without big data.
+Having more data almost never hurts.
+Data makes some businesses defensible.
+But with small datasets, you can still make progress. Some problems require big data, but don't get discouraged without it.
+
