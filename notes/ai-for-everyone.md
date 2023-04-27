@@ -168,3 +168,8 @@ Test set: Similar data to training, but is constant and used to see whether trai
 Valudation sets: second test sets
 
 Training set is much bigger
+
+## Bonus fact
+Graphics Processing Units (GPUs) have very handy for devving large neural networks due to computational abilities
+
+Edge deployment: putting processor right where data is collected (i.e. self-driving cars)
