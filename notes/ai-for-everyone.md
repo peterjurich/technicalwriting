@@ -126,3 +126,27 @@ Having more data almost never hurts.
 Data makes some businesses defensible.
 But with small datasets, you can still make progress. Some problems require big data, but don't get discouraged without it.
 
+### Process for seeing if project is both feasable and valuable
+
+Also consider ethical diligence
+
+#### Feasability
+Technical diligence process: making sure AI system can meet desirted perfornmance
+-Consult AI experts
+-How much data is needed?
+-Engineering timeline
+
+#### Valuable
+Business diligence process
+-Lower costs?
+-Increase revenue?
+-Launching a new product?
+-Is goal to improve current business or create new one?
+
+### Build vs. buy?
+ML can be either in-house or outsourced
+DS projects are commonly in-house
+Some things will be industry standard - avoid building those.
+"Don't be the person sprinting in front of a train."
+
+## Working with an AI team
