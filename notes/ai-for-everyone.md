@@ -150,3 +150,21 @@ Some things will be industry standard - avoid building those.
 "Don't be the person sprinting in front of a train."
 
 ## Working with an AI team
+1. Specify acceptance criteria for project
+Example goal: detect defects with 95% accuracy (statistical goals)
+Provide dataset on which to measure performance (this is called test set and is usually ~100 data points)
+
+**do not expect 100% accuracy**
+Limitatations to ML
+Insufficient data
+Mislabelled data
+Ambiguous labels
+
+### How AI teams think about data
+Training set: pictures w/labels and status or Input A to Output B)
+Learns what appropriate A to B is
+
+Test set: Similar data to training, but is constant and used to see whether training is working
+Valudation sets: second test sets
+
+Training set is much bigger
