@@ -182,3 +182,31 @@ Steps:
 2. Speech recognition
 3. Intent recognition
 4. Specialized program to execute command
+
+## Case study: self-driving car
+Steps:
+1. Image/radar/ladar
+2. Car/pedestrian/lane/traffic light/other obstacles detection (supervised learning)
+2.5. Trajectory prediction
+3. Motion planning
+4. Steer/accelerate/brake
+
+## Example roles of an AI team
+
+### Software engineer
+ex. joke execution, ensure self-driving reliability
+Many team are 50% SEs
+### Machine learning engineer
+may write software for A>B mapping, or algos, makes sure algos work
+### ML researcher
+extend state of the art
+### applied ML scientist
+Go through academic research and adapt it to problems your team has
+### Data scientist
+Not super well defined, examine data and get insights, give presentations
+### Data engineers
+Help organize data in safe, accessible, and cost effective way
+### AI Product Manager
+Helps decide what to build, what is feasible, and what is valuable
+
+## AI Transformation Playbook
