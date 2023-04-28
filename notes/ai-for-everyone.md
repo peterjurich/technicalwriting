@@ -173,3 +173,12 @@ Training set is much bigger
 Graphics Processing Units (GPUs) have very handy for devving large neural networks due to computational abilities
 
 Edge deployment: putting processor right where data is collected (i.e. self-driving cars)
+
+# Module 3: Building AI in your company
+
+## Case study: smart speakers
+Steps:
+1. Trigger/wakeword detection
+2. Speech recognition
+3. Intent recognition
+4. Specialized program to execute command
