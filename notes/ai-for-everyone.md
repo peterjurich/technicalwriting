@@ -214,7 +214,24 @@ Helps decide what to build, what is feasible, and what is valuable
 More important that first project is successful instead of valuable
 Others see results
 **Pick a project w/highest return of success and show traction in first year**
+
 ### 2. Build an in-house AI team
+Build one centralized AI team and matrix talent to support work in other BUs
+Also possible to build company-wide tools or platforms for rest of team
+(CAIO is a new title floating around)
+Senior admin should put up funding instead of BUs
+
 ### 3. Provide a broad AI training
+
+| Role | What they should learn |
+| ---- | ---------------------- |
+| Executives and senior business leaders | What AI can do for your enterprise, AI strategy, resource allocation |
+| Leaders of divisions working on AI projects | Set project direction (technical and business diligence), resource allocaion, monitor progress |
+| AI engineer trainees | Build and ship AI software, gather data, Execute on specific AI projects |
+
+The smart CLO will know to curate instead of create content.
+
 ### 4. Develop an AI strategy
+
+
 ### 5. Develop internal/external communications
