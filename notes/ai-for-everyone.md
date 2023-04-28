@@ -210,3 +210,11 @@ Help organize data in safe, accessible, and cost effective way
 Helps decide what to build, what is feasible, and what is valuable
 
 ## AI Transformation Playbook
+### 1. Execute pilot projects to gain momentum
+More important that first project is successful instead of valuable
+Others see results
+**Pick a project w/highest return of success and show traction in first year**
+### 2. Build an in-house AI team
+### 3. Provide a broad AI training
+### 4. Develop an AI strategy
+### 5. Develop internal/external communications
