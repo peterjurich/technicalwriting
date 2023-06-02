@@ -1,5 +1,37 @@
 Here is a list of daily accomplishments at Genentech:
 
+## Jun. 2, 2023
+
+Interviewed Henri Dwyer on the use of AI at Genentech, uncovering insights and potential areas for improvement. Prepared a summary of key takeaways from the interview.
+
+Updated release email template based on previous notes, ensuring consistency and clarity in messaging.
+
+Conducted a change management meeting to address evolving needs and strategies within the organization. Collaborated with stakeholders to identify areas of focus and potential action plans.
+
+Designed a visually engaging communication presentation theme using Canva, ensuring a professional and cohesive look for the final product.
+
+Edited IT communication slides for clarity and aligned them with Genentech branding guidelines to maintain consistency across materials.
+
+Provided hands-on training and guidance for Sharon on utilizing the Populo platform for efficient communication and project management.
+
+Reformatted release template email in Populo, incorporating images for enhanced visual appeal and improved user experience.
+
+Completed thorough editing of the email communication research slide, ensuring accuracy and relevance of information.
+
+Refined the Downtime Notice Improvements slide for optimal presentation and understanding of key points.
+
+Prepared for the upcoming POM on June 2 by reviewing agenda items, relevant materials, and potential discussion topics.
+
+Participated in one Savoir-Relier class, enhancing personal growth and professional development.
+
+Conducted usability testing on the new PARS website, identifying areas of improvement and providing actionable feedback for the development team.
+
+Aligned with Sharon on thoughts and observations about the new PARS website, facilitating a unified perspective for future discussions.
+
+Presented a new email communication proposal at the POMs meeting, demonstrating well-researched strategies for improved efficiency and effectiveness in company communications.
+
+Shared insights on the usability of the new PARS website with Maanasa, contributing valuable feedback for ongoing development and refinement efforts.
+
 ## May. 26, 2023
 
 Efficiently caught up on email and Slack communications after vacation, ensuring prompt responses and effective reintegration into the workflow.
