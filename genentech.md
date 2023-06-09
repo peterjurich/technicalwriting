@@ -1,5 +1,22 @@
 Here is a list of daily accomplishments at Genentech:
 
+## Jun. 9, 2023
+
+Attended change management meeting to discuss organizational updates and strategies for effective implementation. Collaborated with team members to identify areas of improvement and actionable steps.
+
+Reviewed notes from previous retrospective meeting to strategize and plan content for the upcoming newsletter. Ensured alignment with current organizational goals and initiatives.
+
+Drafted an informative article on the applications and advancements of Artificial Intelligence and Machine Learning at Genentech, highlighting key projects and technological breakthroughs.
+
+Coordinated with Tracy and Sharon to prioritize and delegate tasks while Tracy is on vacation, ensuring seamless team productivity and progress.
+Familiarized myself with the RI&SE forum and gained insights into Ryan Coppin's leadership style and recent organizational structure changes, to better understand the company dynamics.
+
+Initiated the completion of a leadership class assignment, focusing on personal growth and development within management roles.
+
+Addressed and incorporated feedback on the AI/ML article draft, refining content and ensuring accuracy and relevance.
+
+Developed an information architecture framework for the new CSTAR website, prioritizing user experience and easy navigation to enhance user engagement.
+
 ## Jun. 2, 2023
 
 Interviewed Henri Dwyer on the use of AI at Genentech, uncovering insights and potential areas for improvement. Prepared a summary of key takeaways from the interview.
