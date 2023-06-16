@@ -1,5 +1,51 @@
 Here is a list of daily accomplishments at Genentech:
 
+## Jun. 16, 2023
+
+Reviewed and provided feedback on AI/ML article, ensuring accuracy and relevance to the target audience.
+
+Implemented edits on AI/ML story, refining content and enhancing overall readability.
+
+Established communication with Jes to align on newsletter expectations, ensuring consistency in content and design.
+
+Improved information architecture for archived newsletters on RI&SE site, enhancing user navigation and accessibility.
+
+Successfully completed the Savoir-Relier course exam, demonstrating mastery of course content.
+
+Resolved IT issue regarding blinking red notifications, enhancing system performance and user experience.
+
+Conducted meeting with Jes to align on newsletter content and strategy, ensuring clear communication and collaboration.
+
+Developed engaging text for the Current Challenges page on the CSTAR website, highlighting key industry concerns.
+
+Addressed and resolved computer bug, optimizing system performance and functionality.
+
+Designed a template for the Q3 newsletter webpage, streamlining content creation and ensuring consistency in visual presentation.
+
+Crafted compelling text for the Benefits of CSTAR section, highlighting the program's unique value propositions.
+
+Composed a welcoming message for the CSTAR website, fostering a positive user experience for new and returning visitors.
+
+Designed an infographic showcasing the 8 benefits of CSTAR, visually representing key program advantages.
+
+Initiated self-reflection assignment in Savoir-Relier course, applying course concepts to personal and professional growth.
+
+Completed self-reflection assignment in Savoir-Relier course, demonstrating understanding and application of course content.
+
+Finished Module 2, Section 1 of the Savoir-Relier course, progressing through the curriculum and building on foundational knowledge.
+
+Developed GiveBack Week section for the newsletter, showcasing the company's philanthropic initiatives and accomplishments.
+
+Connected with Rion Pendergrass to discuss potential tech writing collaboration and explore opportunities for partnership.
+
+Enhanced content on the Genentech Gives Back page, showcasing the company's commitment to community involvement.
+
+Created informative and engaging text for the scope of the CSTAR program, outlining objectives, and goals.
+
+Completed a Savoir-Relier lesson, further developing leadership and interpersonal skills.
+
+Crafted compelling text for the Show and Tell section of the newsletter, highlighting recent achievements and notable projects.
+
 ## Jun. 9, 2023
 
 Attended change management meeting to discuss organizational updates and strategies for effective implementation. Collaborated with team members to identify areas of improvement and actionable steps.
