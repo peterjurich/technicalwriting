@@ -1,22 +1,67 @@
 Here is a list of daily accomplishments at Genentech:
 
+## Sep. 8, 2023
+
+Completed comprehensive reading on AWS, enhancing cloud computing knowledge and understanding.
+
+Created and edited a Snakefile, strengthening proficiency in VS Code.
+
+Developed a standardized slide template for use case descriptions, improving clarity and consistency across presentations.
+
+Contributed to team meetings, offering insights and ideas for the CONVERGE project.
+
+Enhanced technical skills by watching and analyzing five tutorial videos on Camtavia.
+
+Verified contract end dates and provided timely updates to key personnel.
+
+Refined use case template by switching focus from product to system/feature/functionality, improving relevance and applicability.
+
+Improved visual appeal and effectiveness of CSTAR Benefits slide, enhancing audience engagement and understanding.
+
+Developed a detailed documentation for authorizing laptops to CONVERGE, streamlining onboarding process.
+
+Participated in an ArgoCD Demo, expanding knowledge on declarative and version-controlled software deployments.
+
+Constructed comprehensive documentation on integrating CONVERGE workstation with GitLab, facilitating better workflow management.
+
+Created detailed guide on connecting a Snake file to GitLab, simplifying complex processes for team members.
+
+Completed newly assigned training, continuously improving professional skills and knowledge.
+
 ## Sep. 1, 2023
 Participated in team meetings to discuss project scope and progress, including a focus on the CONVERGE project and DevOps transition from Weka to S3.
+
 Contributed to the development of Snakemake documentation, conducting a review and refinement process to ensure comprehensive content.
+
 Completed an AWS module and prepared for an AWS quiz, reinforcing knowledge of cloud computing and data management platforms.
-Initiated a process to maintain the MasterDeck as a single source of truth amid multiple existing versions, emphasizing efficient and accurate content management.
+
+Initiated a process to maintain the MasterDeck as a single source of truth amid multiple existing versions, emphasizing efficient and 
+accurate content management.
+
 Oversaw the completion of the first week's AWS course, aligning with curriculum timelines and ensuring quality of instructional material.
+
 Managed updates to the company's online presence, including website and presentation content edits, font size adjustments, and link functionality enhancements.
+
 Engaged in a walkthrough to acquire Terminal access to Snakemake, enhancing operational capabilities.
+
 Assessed AWS CLI needs, preparing for necessary updates or modifications.
+
 Led the creation of visually engaging presentation content, including the development of a CSTAR benefits slide and a CSTAR Scope slide.
+
 Met with the CONVERGE team to identify necessary project documentation, ensuring all relevant information is accurately presented.
+
 Removed unauthorized logos from slide screenshots, adhering to copyright laws and organizational policies.
+
 Updated the advisory board list, ensuring all relevant stakeholders are accurately represented.
+
 Explored the process of templatizing websites and decks, aiming to streamline content creation and management.
+
 Contributed to the creation of a CSTAR slide for Inventory, enhancing the presentation's comprehensive nature.
+
 Executed a thorough review of managing a Snakemake job, ensuring proficient understanding and execution of tasks.
+
 Revised the CONVERGE Getting Started guide to improve user experience, including setting links to open in a new tab.
+
 Successfully hid the Solution Framework from the toolbar, enhancing website navigation and user interface.
 
 ## Aug. 11, 2023
