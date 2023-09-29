@@ -1,5 +1,33 @@
 Here is a list of daily accomplishments at Genentech:
 
+## Sep. 29, 2023
+
+Engaged in a demonstration of the CONVERGE project's sprint demo, showcasing the progress and results achieved in the current phase.
+
+Participated in a change management meeting to discuss strategies, challenges, and potential solutions.
+
+Held a meeting with a team member to plan for the upcoming week's documentation tasks.
+
+Conducted an audit of the CSTAR website to assess its current state and areas for improvement.
+
+Developed and shared a CONVERGE information architecture with key team members for review and feedback.
+
+Participated in a sprint demo with the CONVERGE team, discussing project updates and progress.
+
+Established a Trello board to organize, track, and manage various ongoing projects.
+
+Participated in a team meeting to discuss project statuses, upcoming tasks, and team collaboration.
+
+Held a one-on-one meeting with a team member to discuss project updates, concerns, and next steps.
+
+Participated in a touch base meeting with a colleague to discuss ongoing tasks, challenges, and strategies.
+
+Enhanced the accuracy of to-do list items in the CONVERGE GitLab kanban for better task management and tracking.
+
+Reviewed a recorded session of TGI updated goals and timeline, taking notes on potential improvements for website readability.
+
+Reviewed the TGi change management slide deck in preparation for a meeting with a team member.
+
 ## Sep. 8, 2023
 
 Completed comprehensive reading on AWS, enhancing cloud computing knowledge and understanding.
