@@ -1,5 +1,27 @@
 Here is a list of daily accomplishments at Genentech:
 
+## Oct. 6, 2023
+
+In Canva: Developed an acknowledgement certificate of recognition for offshore developers and testers contributing to PathWorks.
+
+Absorbed and familiarized myself with the documentation within the CONVERGE infrastructure directory.
+
+Edited certificates of recognition based on the feedback received from stakeholders.
+
+Formulated an information architecture for items housed within the CONVERGE Infrastructure folder.
+
+Completed the Loom 101 training to enhance communication effectiveness at scale.
+
+Evaluated the product owner checklist for potential improvements and updates.
+
+Participated in the CONVERGE team meeting, focusing on the review and management of the kanban board.
+
+Aligned on the TGi website requirements with Rong to ensure seamless project execution.
+
+Constructed a comprehensive to-do list based on notes from the CONVERGE information architecture.
+
+Presented the newly developed wiki information architecture at the sprint meeting, gathering team feedback for further refinement.
+
 ## Sep. 29, 2023
 
 Engaged in a demonstration of the CONVERGE project's sprint demo, showcasing the progress and results achieved in the current phase.
