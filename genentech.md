@@ -1,5 +1,35 @@
 Here is a list of daily accomplishments at Genentech:
 
+## Oct. 20, 2023
+
+Filled in wireframe template in change management communications spreadsheet for the development of new content.
+
+Engaged in a change management meeting with cross-functional team members to discuss strategies and project progression.
+
+Constructed a comprehensive FAQs page for a major project, ensuring ease of access to critical information for all stakeholders.
+
+Aligned a project-specific wiki with the predetermined information architecture, improving ease of use and navigation.
+
+Participated in a weekly project meeting, contributing to strategy discussions and project updates.
+
+Drafted a detailed user journey map for a typical project user, enhancing understanding of user behaviors and needs.
+
+Attended a company-wide townhall meeting, staying updated on organizational changes and initiatives.
+
+Prepared a comprehensive agenda and supporting materials for a strategic meeting with a key stakeholder.
+
+Collaborated with a colleague to map a user journey, enhancing understanding of user needs and behaviors.
+
+Conducted a meeting with project stakeholders to discuss updates and strategies related to a project-specific website.
+
+Commenced the editing process for a project website based on feedback received, ensuring the site met stakeholder expectations.
+
+Completed mandatory Privacy training, reinforcing knowledge and understanding of privacy regulations and company policies.
+
+Reviewed a company-wide townhall meeting video, staying updated on organizational changes and initiatives.
+
+Worked on and edited a user journey map for a major project with a project lead, further discussing strategies for a quickstart guide.
+
 ## Oct. 13, 2023
 
 Communicated with TGi website team to update and enhance 'About' information, ensuring brand consistency and updated company details.
