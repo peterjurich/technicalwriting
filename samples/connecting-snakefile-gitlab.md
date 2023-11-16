@@ -5,7 +5,7 @@ This documentation will show you how to connect your Snakefile to GitLab so you 
 ### Prerequisites
 
 You first need to <a href="https://wiki.converge.gene.com/en/quickstart/integrating-gitlab-with-converge" target="_blank">intergrate GitLab with your Converge workspace</a>.
-. 
+
 ## Step 1: Create a new repository in GitLab
 1. From your GitLab home screen at code.roche.com, click the "+" symbol in the upper left corner and choose "New project/repository".
 
