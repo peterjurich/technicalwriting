@@ -25,7 +25,7 @@ This will take you to your new repository.
 1. Click on the "Clone" button on the right side of the screen. It is next to the "Find file", "Edit", and download buttons.
 2. Copy the URL under "Clone with SSH" by clicking on the clipboard icon to the right of that URL.
 
-![clone-project.png](/img/clone-project.png)
+<img src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/tobyAndOllie.jpg" alt="two dogs" width="300">
 
 3. Go to your Terminal and run the command `git clone [copied URL]`.
 For example:
