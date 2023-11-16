@@ -9,7 +9,8 @@ You first need to <a href="https://wiki.converge.gene.com/en/quickstart/integrat
 ## Step 1: Create a new repository in GitLab
 1. From your GitLab home screen at code.roche.com, click the "+" symbol in the upper left corner and choose "New project/repository".
 
-<img src="/img/create-project.png" alt="Click the + symbol to create a new project." width="300"/>
+<img src="https://github.com/peterjurich/technicalwriting/blob/main/media/pictures/new-project.png" alt="Click the + symbol to create a new project." width="300"/>
+
 
 2. Choose "Create blank project".
 3. Name your project.
