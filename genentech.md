@@ -1,5 +1,41 @@
 Here is a list of daily accomplishments at Genentech:
 
+## Nov. 22, 2023
+
+Build a prototype of a new PathWorks homepage
+
+Build prototype of new PathWorks landing page
+
+Built draft information architecture for TGI site
+
+Create a draft information architecture for PathWorks
+
+## Nov. 17, 2023
+
+Established communication with tech pod leaders to introduce the newly developed TGI website template.
+
+Enhanced the Quickstart guide through updated upgrade instructions.
+
+Authored comprehensive documentation on utilizing the Converge CLI for data exploration.
+
+Engaged in weekly one-on-one meetings with Rion for team alignment and performance review.
+
+Scheduled strategy discussion with Shomali regarding TGI tech charters.
+
+## Nov. 10, 2023
+
+Finalized the integration of Rion's edits into the Converge wiki, enhancing its accuracy and comprehensiveness.
+
+Explored cultural competencies by viewing Navajo Nation USA.
+
+Participated in discussion and screening of Navajo Nation USA, facilitated by Patient Advocacy Relations and gNA.
+
+Brainstormed innovative strategies to augment the usability of the PathWorks website.
+
+Conceptualized a revision plan for the PathWorks website to enhance its usability and searchability.
+
+Completed GNE SAI Foundations of Competitive Intelligence training, enriching industry knowledge and competitive intelligence skills.
+
 ## Nov. 3, 2023
 
 Edited company website for content accuracy and clarity, incorporating stakeholder feedback to enhance information architecture.
