@@ -102,7 +102,7 @@ rule hello_world:
 2. Run `git commit`.
 3. Run `git push` to push commit changes into your repository in GitLab.
 4. Go to your test-snakemake-workflow repository in GitLab and you should see your Snakefile.
-> NOTE: If you click into your Snakefile in your GitLab repo, you will be able to edit it in your remote workspace. However, these changes will **not** be reflected locally. {.is-warning }
+> NOTE: If you click into your Snakefile in your GitLab repo, you will be able to edit it in your remote workspace. However, these changes will **not** be reflected locally.
 
 ## Step 5: Connect Snake file to local Converge workstation
 
